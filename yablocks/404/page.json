@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "title": "404 - Page Non Trouvée | Thermosolis",
+        "description": "La page que vous recherchez n'existe pas ou a été déplacée. Retournez à l'accueil pour découvrir nos services de chauffage et climatisation.",
+        "keywords": [
+            "404",
+            "page non trouvée",
+            "erreur",
+            "Thermosolis"
+        ],
+        "author": "Thermosolis",
+        "canonical": "https://thermosolis.fr/404",
+        "locale": "fr_FR",
+        "robots": "noindex, follow",
+        "og": {
+            "type": "website",
+            "image": "/images/og-home.jpg",
+            "imageAlt": "Thermosolis - Page non trouvée"
+        }
+    },
+    "theme": "light",
+    "blocks": [
+        "../_shared/navigation.json",
+        "./not_found.json",
+        "../_shared/footer.json"
+    ]
+}
