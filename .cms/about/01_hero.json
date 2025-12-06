@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "component": "blocks/hero/PrimaryHero",
+        "section": "home/hero"
+    },
+    "data": {
+        "title": "Votre Expert en Chauffage, Climatisation & Énergies Renouvelables",
+        "subtitle": "Solutions complètes pour le confort de votre habitat : chauffage, climatisation, pompes à chaleur, ventilation, plomberie et installations solaires. Plus de 15 ans d'expérience à votre service.",
+        "backgroundImage": "/.cms/assets/panneau_solaire.jpeg",
+        "cta": {
+            "primary": {
+                "text": "Devis Gratuit",
+                "link": "#contact"
+            },
+            "secondary": {
+                "text": "01 23 45 67 89",
+                "link": "tel:0123456789"
+            }
+        },
+        "features": [
+            "Intervention rapide 24/7",
+            "Devis gratuit & sans engagement",
+            "Artisans certifiés RGE"
+        ]
+    }
+}

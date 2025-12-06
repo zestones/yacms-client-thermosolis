@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "component": "blocks/stats/Stats",
+        "section": "home/stats"
+    },
+    "data": {
+        "stats": [
+            {
+                "number": "15",
+                "suffix": "+",
+                "label": "Ans d'Expérience"
+            },
+            {
+                "number": "2000",
+                "suffix": "+",
+                "label": "Clients Satisfaits"
+            },
+            {
+                "number": "98",
+                "suffix": "%",
+                "label": "Taux de Satisfaction"
+            },
+            {
+                "number": "24",
+                "suffix": "/7",
+                "label": "Service d'Urgence"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "component": "blocks/testimonials/TestimonialCards",
+        "section": "home/testimonials"
+    },
+    "data": {
+        "title": "Ce Que Nos Clients Disent",
+        "subtitle": "La satisfaction de nos clients est notre priorité. Découvrez leurs témoignages.",
+        "testimonials": [
+            {
+                "name": "Marie Dupont",
+                "role": "Propriétaire, Paris",
+                "content": "Installation de pompe à chaleur impeccable ! L'équipe est professionnelle, ponctuelle et le travail est de grande qualité. Je recommande vivement.",
+                "rating": 5
+            },
+            {
+                "name": "Pierre Martin",
+                "role": "Gérant, Lyon",
+                "content": "Service d'urgence très réactif. Problème de chauffage résolu en moins de 2 heures. Excellent rapport qualité-prix et conseil avisé.",
+                "rating": 5
+            },
+            {
+                "name": "Sophie Bernard",
+                "role": "Particulier, Marseille",
+                "content": "Installation de panneaux solaires parfaite. L'équipe a pris le temps d'expliquer le fonctionnement et les économies potentielles. Très satisfaite !",
+                "rating": 5
+            }
+        ]
+    }
+}

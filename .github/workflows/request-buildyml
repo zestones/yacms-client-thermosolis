@@ -1,0 +1,16 @@
+name: Trigger Central Build
+on:
+  push:
+    branches: [main]
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger YACMS Central
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          repository: zestones/yacms
+          event-type: build-client
+          client-payload: '{"client_repo":"yacms-client-thermosolis"}'

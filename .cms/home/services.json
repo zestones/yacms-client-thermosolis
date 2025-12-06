@@ -1,0 +1,84 @@
+{
+    "meta": {
+        "component": "blocks/services/ServiceGrid",
+        "section": "home/services"
+    },
+    "data": {
+        "title": "Nos Services",
+        "subtitle": "Des solutions complètes pour tous vos besoins en confort thermique et énergies renouvelables",
+        "services": [
+            {
+                "icon": "flame",
+                "title": "Chauffage",
+                "description": "Solutions de chauffage performantes et économiques pour votre confort toute l'année. Installation et maintenance par des experts certifiés.",
+                "image": "https://www.maisonentravaux.fr/wp-content/uploads/2021/01/devis-pose-chauffage-central.jpg",
+                "features": [
+                    "Chaudières gaz, fioul et bois",
+                    "Radiateurs et planchers chauffants",
+                    "Systèmes de régulation intelligents",
+                    "Entretien et dépannage 24/7"
+                ]
+            },
+            {
+                "icon": "wind",
+                "title": "Pompes à Chaleur",
+                "description": "Technologie écologique et économique pour chauffer et rafraîchir votre habitat. Réduisez vos factures énergétiques jusqu'à 70%.",
+                "image": "https://bo.calculeo.fr/sites/default/files/styles/web_p/public/2022-01/PAC_TopPage.jpg.webp?itok=hegCwrPh",
+                "features": [
+                    "Pompes à chaleur air/air et air/eau",
+                    "Solutions géothermiques",
+                    "Réversibles chaud/froid",
+                    "Économies jusqu'à 70%"
+                ]
+            },
+            {
+                "icon": "snowflake",
+                "title": "Climatisation",
+                "description": "Climatisation réversible pour un confort optimal été comme hiver. Technologies silencieuses et éco-énergétiques.",
+                "image": "https://climfactory.com/img/.cms/Article%202.jpeg",
+                "features": [
+                    "Climatisation réversible",
+                    "Mono-split et multi-split",
+                    "Systèmes centralisés",
+                    "Installation discrète et silencieuse"
+                ]
+            },
+            {
+                "icon": "sun",
+                "title": "Panneaux Solaires",
+                "description": "Produisez votre propre électricité et réduisez votre empreinte carbone. Solutions photovoltaïques et thermiques sur mesure.",
+                "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?q=80&w=1200&auto=format&fit=crop",
+                "features": [
+                    "Panneaux photovoltaïques",
+                    "Solaire thermique",
+                    "Autoconsommation intelligente",
+                    "Aides et subventions incluses"
+                ]
+            },
+            {
+                "icon": "zap",
+                "title": "Électricité",
+                "description": "Installations électriques conformes aux normes en vigueur. De la simple prise au tableau électrique complet.",
+                "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?q=80&w=1200&auto=format&fit=crop",
+                "features": [
+                    "Mise aux normes NF C 15-100",
+                    "Tableaux électriques",
+                    "Installation domotique",
+                    "Dépannage urgent 24/7"
+                ]
+            },
+            {
+                "icon": "droplets",
+                "title": "Plomberie & Sanitaire",
+                "description": "Plomberie sanitaire complète et rénovation de salles de bain. Service d'urgence disponible 24h/24 et 7j/7.",
+                "image": "https://images.unsplash.com/photo-1585704032915-c3400ca199e7?q=80&w=1200&auto=format&fit=crop",
+                "features": [
+                    "Plomberie sanitaire complète",
+                    "Rénovation salles de bain",
+                    "Chauffe-eau et ballon d'eau chaude",
+                    "Urgence 24/7 disponible"
+                ]
+            }
+        ]
+    }
+}

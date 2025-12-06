@@ -1,0 +1,61 @@
+{
+    "meta": {
+        "component": "blocks/navigation/PrimaryNavigation",
+        "section": "home/navigation"
+    },
+    "data": {
+        "logo": {
+            "text": "ClimatExpert",
+            "href": "/",
+            "image": "/.cms/assets/logo-dark.png"
+        },
+        "links": [
+            {
+                "label": "Accueil",
+                "href": "/"
+            },
+            {
+                "label": "Services",
+                "href": "#services",
+                "dropdown": [
+                    {
+                        "label": "Chauffage",
+                        "href": "/services/chauffage"
+                    },
+                    {
+                        "label": "Climatisation",
+                        "href": "#climatisation"
+                    },
+                    {
+                        "label": "Ventilation",
+                        "href": "#ventilation"
+                    },
+                    {
+                        "label": "Pompe à chaleur",
+                        "href": "#pompe-a-chaleur"
+                    },
+                    {
+                        "label": "Panneaux solaires",
+                        "href": "#panneaux-solaires"
+                    }
+                ]
+            },
+            {
+                "label": "À propos",
+                "href": "/about"
+            },
+            {
+                "label": "Réalisations",
+                "href": "#realisations"
+            },
+            {
+                "label": "Contact",
+                "href": "#contact"
+            }
+        ],
+        "cta": {
+            "text": "Devis Gratuit",
+            "href": "#contact"
+        }
+    }
+}
