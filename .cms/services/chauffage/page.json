@@ -16,7 +16,7 @@
         "robots": "index, follow",
         "og": {
             "type": "website",
-            "image": "/.cms/assets/images/og-home.jpg",
+            "image": "/images/og-home.jpg",
             "imageAlt": "Thermosolis - Votre expert en confort thermique"
         }
     },
