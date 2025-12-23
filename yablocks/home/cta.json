@@ -1,26 +1,26 @@
 {
-    "meta": {
-        "component": "blocks/cta/PrimaryCTA",
-        "section": "home/cta"
-    },
-    "data": {
-        "title": "Prêt à Améliorer Votre Confort ?",
-        "subtitle": "Contactez-nous dès aujourd'hui pour un devis gratuit et sans engagement. Nos experts sont à votre écoute pour répondre à tous vos besoins.",
-        "features": [
-            "Devis gratuit sous 24h",
-            "Conseils personnalisés",
-            "Financement disponible",
-            "Aides de l'État"
-        ],
-        "cta": {
-            "primary": {
-                "text": "Demander un Devis Gratuit",
-                "link": "#contact"
-            },
-            "secondary": {
-                "text": "Appelez-nous : 01 23 45 67 89",
-                "link": "tel:0123456789"
-            }
-        }
+  "meta": {
+    "component": "blocks/cta/PrimaryCTA",
+    "section": "home/cta"
+  },
+  "data": {
+    "title": "Prêt à Améliorer Votre Confort ?",
+    "subtitle": "Contactez-nous dès aujourd'hui pour un devis gratuit et sans engagement. Nos experts sont à votre écoute pour répondre à tous vos besoins.",
+    "features": [
+      "Devis gratuit sous 24h",
+      "Conseils personnalisés",
+      "Financement disponible",
+      "Aides de l'État"
+    ],
+    "cta": {
+      "primary": {
+        "text": "Demander un Devis Gratuit",
+        "link": "#contact"
+      },
+      "secondary": {
+        "text": "Appelez-nous : 01 23 45 67 89",
+        "link": "tel:0123456789"
+      }
     }
+  }
 }

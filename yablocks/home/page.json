@@ -1,33 +1,33 @@
 {
-    "meta": {
-        "title": "Accueil - Thermosolis | Expert Chauffage & Climatisation",
-        "description": "Expert en chauffage, climatisation et énergies renouvelables. Plus de 15 ans d'expérience. Devis gratuit et intervention rapide 24/7.",
-        "keywords": [
-            "chauffage",
-            "climatisation",
-            "pompe à chaleur",
-            "panneaux solaires",
-            "ventilation",
-            "RGE"
-        ],
-        "author": "Thermosolis",
-        "canonical": "https://thermosolis.fr/",
-        "locale": "fr_FR",
-        "robots": "index, follow",
-        "og": {
-            "type": "website",
-            "image": "/images/og-home.jpg",
-            "imageAlt": "Thermosolis - Votre expert en confort thermique"
-        }
-    },
-    "theme": "light",
-    "blocks": [
-        "../_shared/navigation.json",
-        "hero.json",
-        "services.json",
-        "stats.json",
-        "testimonials.json",
-        "cta.json",
-        "../_shared/footer.json"
-    ]
+  "meta": {
+    "title": "Accueil - Thermosolis | Expert Chauffage & Climatisation",
+    "description": "Expert en chauffage, climatisation et énergies renouvelables. Plus de 15 ans d'expérience. Devis gratuit et intervention rapide 24/7.",
+    "keywords": [
+      "chauffage",
+      "climatisation",
+      "pompe à chaleur",
+      "panneaux solaires",
+      "ventilation",
+      "RGE"
+    ],
+    "author": "Thermosolis",
+    "canonical": "https://thermosolis.fr/",
+    "locale": "fr_FR",
+    "robots": "index, follow",
+    "og": {
+      "type": "website",
+      "image": "/images/og-home.jpg",
+      "imageAlt": "Thermosolis - Votre expert en confort thermique"
+    }
+  },
+  "theme": "light",
+  "blocks": [
+    "../_shared/navigation.json",
+    "services.json",
+    "hero.json",
+    "stats.json",
+    "testimonials.json",
+    "cta.json",
+    "../_shared/footer.json"
+  ]
 }
