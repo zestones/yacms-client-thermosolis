@@ -1,116 +1,116 @@
 {
-    "meta": {
-        "component": "blocks/footer/PrimaryFooter",
-        "section": "home/footer"
+  "meta": {
+    "component": "blocks/footer/PrimaryFooter",
+    "section": "home/footer"
+  },
+  "data": {
+    "company": {
+      "name": "ClimatExpert",
+      "tagline": "Votre partenaire confort thermique depuis 2008"
     },
-    "data": {
-        "company": {
-            "name": "ClimatExpert",
-            "tagline": "Votre partenaire confort thermique depuis 2008"
+    "contact": {
+      "phone": "01 23 45 67 89",
+      "email": "contact@climatexpert.fr",
+      "address": "123 Avenue de la République, 75011 Paris"
+    },
+    "social": [
+      {
+        "icon": "facebook",
+        "link": "https://facebook.com",
+        "label": "Facebook"
+      },
+      {
+        "icon": "instagram",
+        "link": "https://instagram.com",
+        "label": "Instagram"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://linkedin.com",
+        "label": "LinkedIn"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Services",
+        "links": [
+          {
+            "label": "Chauffage",
+            "href": "#services"
+          },
+          {
+            "label": "Climatisation",
+            "href": "#services"
+          },
+          {
+            "label": "Pompes à Chaleur",
+            "href": "#services"
+          },
+          {
+            "label": "Panneaux Solaires",
+            "href": "#services"
+          }
+        ]
+      },
+      {
+        "title": "Entreprise",
+        "links": [
+          {
+            "label": "À propos",
+            "href": "#about"
+          },
+          {
+            "label": "Nos réalisations",
+            "href": "#realisations"
+          },
+          {
+            "label": "Avis clients",
+            "href": "#testimonials"
+          },
+          {
+            "label": "Contact",
+            "href": "#contact"
+          }
+        ]
+      },
+      {
+        "title": "Informations",
+        "links": [
+          {
+            "label": "Aides & Subventions",
+            "href": "/aides"
+          },
+          {
+            "label": "Zone d'intervention",
+            "href": "/zone"
+          },
+          {
+            "label": "FAQ",
+            "href": "/faq"
+          },
+          {
+            "label": "Blog",
+            "href": "/blog"
+          }
+        ]
+      }
+    ],
+    "legal": {
+      "copyright": "© 2024 ClimatExpert. Tous droits réservés.",
+      "links": [
+        {
+          "label": "Mentions légales",
+          "href": "/mentions-legales"
         },
-        "contact": {
-            "phone": "01 23 45 67 89",
-            "email": "contact@climatexpert.fr",
-            "address": "123 Avenue de la République, 75011 Paris"
+        {
+          "label": "Politique de confidentialité",
+          "href": "/politique-confidentialite"
         },
-        "social": [
-            {
-                "icon": "facebook",
-                "link": "https://facebook.com",
-                "label": "Facebook"
-            },
-            {
-                "icon": "instagram",
-                "link": "https://instagram.com",
-                "label": "Instagram"
-            },
-            {
-                "icon": "linkedin",
-                "link": "https://linkedin.com",
-                "label": "LinkedIn"
-            }
-        ],
-        "sections": [
-            {
-                "title": "Services",
-                "links": [
-                    {
-                        "label": "Chauffage",
-                        "href": "#services"
-                    },
-                    {
-                        "label": "Climatisation",
-                        "href": "#services"
-                    },
-                    {
-                        "label": "Pompes à Chaleur",
-                        "href": "#services"
-                    },
-                    {
-                        "label": "Panneaux Solaires",
-                        "href": "#services"
-                    }
-                ]
-            },
-            {
-                "title": "Entreprise",
-                "links": [
-                    {
-                        "label": "À propos",
-                        "href": "#about"
-                    },
-                    {
-                        "label": "Nos réalisations",
-                        "href": "#realisations"
-                    },
-                    {
-                        "label": "Avis clients",
-                        "href": "#testimonials"
-                    },
-                    {
-                        "label": "Contact",
-                        "href": "#contact"
-                    }
-                ]
-            },
-            {
-                "title": "Informations",
-                "links": [
-                    {
-                        "label": "Aides & Subventions",
-                        "href": "/aides"
-                    },
-                    {
-                        "label": "Zone d'intervention",
-                        "href": "/zone"
-                    },
-                    {
-                        "label": "FAQ",
-                        "href": "/faq"
-                    },
-                    {
-                        "label": "Blog",
-                        "href": "/blog"
-                    }
-                ]
-            }
-        ],
-        "legal": {
-            "copyright": "© 2024 ClimatExpert. Tous droits réservés.",
-            "links": [
-                {
-                    "label": "Mentions légales",
-                    "href": "/mentions-legales"
-                },
-                {
-                    "label": "Politique de confidentialité",
-                    "href": "/politique-confidentialite"
-                },
-                {
-                    "label": "CGV",
-                    "href": "/cgv"
-                }
-            ]
+        {
+          "label": "CGV",
+          "href": "/cgv"
         }
+      ]
     }
+  }
 }
