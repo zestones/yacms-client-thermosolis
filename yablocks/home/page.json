@@ -22,9 +22,9 @@
   },
   "theme": "light",
   "blocks": [
+    "hero.json",
     "../_shared/navigation.json",
     "services.json",
-    "hero.json",
     "stats.json",
     "testimonials.json",
     "cta.json",
