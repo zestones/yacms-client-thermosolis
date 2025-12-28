@@ -4,80 +4,90 @@
     "section": "home/services"
   },
   "data": {
-    "title": "Nos Services",
-    "subtitle": "Des solutions complètes pour tous vos besoins en confort thermique et énergies renouvelables",
+    "title": "Comment pouvons-nous vous aider ?",
+    "subtitle": "Trouvez rapidement la solution adaptée à votre situation.",
     "services": [
       {
-        "icon": "flame",
-        "title": "Chauffage",
-        "description": "Solutions de chauffage performantes et économiques pour votre confort toute l'année. Installation et maintenance par des experts certifiés.",
-        "image": "https://www.maisonentravaux.fr/wp-content/uploads/2021/01/devis-pose-chauffage-central.jpg",
+        "icon": "droplets",
+        "situation": "Fuite ou problème d'eau",
+        "title": "Plomberie",
+        "benefit": "Intervention rapide pour tous vos problèmes de plomberie et sanitaires.",
+        "image": "https://images.unsplash.com/photo-1585704032915-c3400ca199e7?w=800",
         "features": [
-          "Chaudières gaz, fioul et bois",
-          "Radiateurs et planchers chauffants",
-          "Systèmes de régulation intelligents",
-          "Entretien et dépannage 24/7"
-        ]
+          "Dépannage urgent 24/7",
+          "Détection de fuites",
+          "Chauffe-eau",
+          "Sanitaires"
+        ],
+        "href": "/services/plomberie"
       },
       {
-        "icon": "wind",
-        "title": "Pompes à Chaleur",
-        "description": "Technologie écologique et économique pour chauffer et rafraîchir votre habitat. Réduisez vos factures énergétiques jusqu'à 70%.",
-        "image": "https://bo.calculeo.fr/sites/default/files/styles/web_p/public/2022-01/PAC_TopPage.jpg.webp?itok=hegCwrPh",
+        "icon": "flame",
+        "situation": "Plus de chauffage ou chauffage inefficace",
+        "title": "Chauffage",
+        "benefit": "Dépannage, entretien et installation de tous systèmes de chauffage.",
+        "image": "https://www.maisonentravaux.fr/wp-content/uploads/2021/01/devis-pose-chauffage-central.jpg",
         "features": [
-          "Pompes à chaleur air/air et air/eau",
-          "Solutions géothermiques",
-          "Réversibles chaud/froid",
-          "Économies jusqu'à 70%"
-        ]
+          "Chaudières gaz et fioul",
+          "Plancher chauffant",
+          "Radiateurs",
+          "Entretien annuel"
+        ],
+        "href": "/services/chauffage"
       },
       {
         "icon": "snowflake",
+        "situation": "Trop chaud l'été",
         "title": "Climatisation",
-        "description": "Climatisation réversible pour un confort optimal été comme hiver. Technologies silencieuses et éco-énergétiques.",
+        "benefit": "Solutions de climatisation pour un confort optimal toute l'année.",
         "image": "https://climfactory.com/img/.cms/Article%202.jpeg",
         "features": [
           "Climatisation réversible",
-          "Mono-split et multi-split",
-          "Systèmes centralisés",
-          "Installation discrète et silencieuse"
-        ]
+          "Multi-split",
+          "Gainable",
+          "Installation discrète"
+        ],
+        "href": "/services/climatisation"
       },
       {
-        "icon": "sun",
-        "title": "Panneaux Solaires",
-        "description": "Produisez votre propre électricité et réduisez votre empreinte carbone. Solutions photovoltaïques et thermiques sur mesure.",
-        "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?q=80&w=1200&auto=format&fit=crop",
+        "icon": "wind",
+        "situation": "Air intérieur mal ventilé",
+        "title": "Ventilation",
+        "benefit": "VMC et systèmes de ventilation pour un air sain chez vous.",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
         "features": [
-          "Panneaux photovoltaïques",
-          "Solaire thermique",
-          "Autoconsommation intelligente",
-          "Aides et subventions incluses"
-        ]
+          "VMC simple flux",
+          "VMC double flux",
+          "Entretien VMC"
+        ],
+        "href": "/services/ventilation"
+      },
+      {
+        "icon": "thermometer",
+        "situation": "Réduire ma consommation d'énergie",
+        "title": "Pompe à chaleur",
+        "benefit": "Jusqu'à 70% d'économies sur votre facture de chauffage.",
+        "image": "https://bo.calculeo.fr/sites/default/files/styles/web_p/public/2022-01/PAC_TopPage.jpg.webp",
+        "features": [
+          "Air/air et air/eau",
+          "Géothermie",
+          "Aides financières",
+          "Économies 70%"
+        ],
+        "href": "/services/pompe-a-chaleur"
       },
       {
         "icon": "zap",
+        "situation": "Problème électrique ou mise aux normes",
         "title": "Électricité",
-        "description": "Installations électriques conformes aux normes en vigueur. De la simple prise au tableau électrique complet.",
-        "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?q=80&w=1200&auto=format&fit=crop",
+        "benefit": "Installation, dépannage et mise en conformité électrique.",
+        "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=800",
         "features": [
-          "Mise aux normes NF C 15-100",
-          "Tableaux électriques",
-          "Installation domotique",
-          "Dépannage urgent 24/7"
-        ]
-      },
-      {
-        "icon": "droplets",
-        "title": "Plomberie & Sanitaire",
-        "description": "Plomberie sanitaire complète et rénovation de salles de bain. Service d'urgence disponible 24h/24 et 7j/7.",
-        "image": "https://images.unsplash.com/photo-1585704032915-c3400ca199e7?q=80&w=1200&auto=format&fit=crop",
-        "features": [
-          "Plomberie sanitaire complète",
-          "Rénovation salles de bain",
-          "Chauffe-eau et ballon d'eau chaude",
-          "Urgence 24/7 disponible"
-        ]
+          "Mise aux normes",
+          "Tableau électrique",
+          "Dépannage 24/7"
+        ],
+        "href": "/services/electricite"
       }
     ]
   }

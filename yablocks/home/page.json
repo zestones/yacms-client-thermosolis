@@ -20,10 +20,12 @@
       "imageAlt": "Thermosolis - Votre expert en confort thermique"
     }
   },
-  "theme": "light",
+  "theme": "thermosolis",
   "blocks": [
     "hero.json",
     "../_shared/navigation.json",
+    "user-context.json",
+    "value-proposition.json",
     "services.json",
     "stats.json",
     "testimonials.json",
