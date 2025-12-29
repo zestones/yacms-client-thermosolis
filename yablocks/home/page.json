@@ -22,8 +22,8 @@
   },
   "theme": "thermosolis",
   "blocks": [
-    "hero.json",
     "../_shared/navigation.json",
+    "hero.json",
     "user-context.json",
     "value-proposition.json",
     "services.json"
