@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/cta/PrimaryCTA",
+    "component": "blocks/conversion/cta/PrimaryCTA",
     "section": "home/cta"
   },
   "data": {

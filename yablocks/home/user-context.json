@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/user-context/UserContext01",
+    "component": "blocks/content/user-context/UserContext01",
     "section": "home/user-context"
   },
   "data": {

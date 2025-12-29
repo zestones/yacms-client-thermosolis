@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/testimonials/TestimonialCards",
+    "component": "blocks/social-proof/testimonials/TestimonialCards",
     "section": "home/testimonials"
   },
   "data": {

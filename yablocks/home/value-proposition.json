@@ -1,6 +1,6 @@
 {
     "meta": {
-        "component": "blocks/proposition/ValueProposition",
+        "component": "blocks/content/proposition/ValueProposition",
         "section": "home/value-proposition"
     },
     "data": {

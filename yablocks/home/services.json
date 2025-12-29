@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/services/ServiceGrid",
+    "component": "blocks/content/services/ServiceGrid",
     "section": "home/services"
   },
   "data": {

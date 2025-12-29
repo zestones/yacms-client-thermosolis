@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/footer/PrimaryFooter",
+    "component": "blocks/layout/footer/PrimaryFooter",
     "section": "home/footer"
   },
   "data": {

@@ -26,10 +26,6 @@
     "../_shared/navigation.json",
     "user-context.json",
     "value-proposition.json",
-    "services.json",
-    "stats.json",
-    "testimonials.json",
-    "cta.json",
-    "../_shared/footer.json"
+    "services.json"
   ]
 }

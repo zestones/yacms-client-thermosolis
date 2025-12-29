@@ -1,6 +1,6 @@
 {
     "meta": {
-        "component": "blocks/hero/PrimaryHero",
+        "component": "blocks/layout/hero/PrimaryHero",
         "section": "home/hero"
     },
     "data": {

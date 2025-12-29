@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/stats/Stats",
+    "component": "blocks/social-proof/stats/Stats",
     "section": "home/stats"
   },
   "data": {
