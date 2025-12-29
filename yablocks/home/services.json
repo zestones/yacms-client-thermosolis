@@ -19,7 +19,16 @@
           "Chauffe-eau",
           "Sanitaires"
         ],
-        "href": "/services/plomberie"
+        "href": "/services/plomberie",
+        "badge": "dedefefe",
+        "stats": {
+          "value": "50%",
+          "label": "Moin cher que la concurence"
+        },
+        "pricing": {
+          "startingAt": "0",
+          "unit": ""
+        }
       },
       {
         "icon": "flame",
@@ -89,6 +98,12 @@
         ],
         "href": "/services/electricite"
       }
-    ]
+    ],
+    "badge": "Nos Services",
+    "cta": {
+      "text": "Demandez un Devis",
+      "href": "/devis",
+      "variant": "primary"
+    }
   }
 }
