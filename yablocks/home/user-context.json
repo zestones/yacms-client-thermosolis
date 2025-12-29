@@ -29,6 +29,8 @@
         ]
       }
     ],
-    "eyebrow": "Vous reconnaissez-vous ?"
+    "eyebrow": "Vous reconnaissez-vous ?",
+    "urgentLabel": "Situation urgente",
+    "improvementLabel": "Besoin d'amélioration"
   }
 }
