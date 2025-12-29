@@ -5,105 +5,171 @@
   },
   "data": {
     "title": "Comment pouvons-nous vous aider ?",
-    "subtitle": "Trouvez rapidement la solution adaptée à votre situation.",
+    "subtitle": "Des solutions complètes pour votre confort et vos économies d'énergie. Intervention rapide dans tout le secteur.",
+    "badge": "Nos expertises",
     "services": [
       {
         "icon": "droplets",
         "situation": "Fuite ou problème d'eau",
-        "title": "Plomberie",
-        "benefit": "Intervention rapide pour tous vos problèmes de plomberie et sanitaires.",
+        "title": "Plomberie & Sanitaires",
+        "benefit": "Intervention rapide pour tous vos problèmes de plomberie. Dépannage d'urgence disponible 24h/24 et 7j/7.",
+        "description": "De la simple fuite au remplacement complet de votre installation sanitaire, nos plombiers certifiés interviennent rapidement.",
         "image": "https://images.unsplash.com/photo-1585704032915-c3400ca199e7?w=800",
         "features": [
-          "Dépannage urgent 24/7",
-          "Détection de fuites",
-          "Chauffe-eau",
-          "Sanitaires"
+          "Dépannage urgent 24h/24",
+          "Détection de fuites sans casse",
+          "Installation chauffe-eau",
+          "Rénovation salle de bain",
+          "Débouchage canalisations",
+          "Garantie pièces & main d'œuvre"
         ],
         "href": "/services/plomberie",
-        "badge": "dedefefe",
+        "badge": "Urgence 24/7",
         "stats": {
-          "value": "50%",
-          "label": "Moin cher que la concurence"
+          "value": "2h",
+          "label": "Délai d'intervention"
         },
         "pricing": {
-          "startingAt": "0",
-          "unit": ""
+          "startingAt": "89€",
+          "unit": "intervention"
         }
       },
       {
         "icon": "flame",
         "situation": "Plus de chauffage ou chauffage inefficace",
-        "title": "Chauffage",
-        "benefit": "Dépannage, entretien et installation de tous systèmes de chauffage.",
+        "title": "Chauffage Central",
+        "benefit": "Installation, dépannage et entretien de tous types de chaudières et systèmes de chauffage central.",
+        "description": "Profitez d'un confort thermique optimal avec nos solutions de chauffage performantes et économiques.",
         "image": "https://www.maisonentravaux.fr/wp-content/uploads/2021/01/devis-pose-chauffage-central.jpg",
         "features": [
-          "Chaudières gaz et fioul",
-          "Plancher chauffant",
-          "Radiateurs",
-          "Entretien annuel"
+          "Chaudières gaz condensation",
+          "Chaudières fioul & granulés",
+          "Plancher chauffant hydraulique",
+          "Installation radiateurs",
+          "Entretien annuel obligatoire",
+          "Contrat de maintenance"
         ],
-        "href": "/services/chauffage"
+        "href": "/services/chauffage",
+        "badge": "RGE QualiPAC",
+        "stats": {
+          "value": "15 ans",
+          "label": "Expérience"
+        },
+        "pricing": {
+          "startingAt": "120€",
+          "unit": "entretien"
+        }
       },
       {
         "icon": "snowflake",
         "situation": "Trop chaud l'été",
-        "title": "Climatisation",
-        "benefit": "Solutions de climatisation pour un confort optimal toute l'année.",
+        "title": "Climatisation Réversible",
+        "benefit": "Climatisez l'été et chauffez l'hiver avec nos solutions 2-en-1 économiques et silencieuses.",
+        "description": "Installation de climatiseurs réversibles dernière génération, pour un confort toute l'année.",
         "image": "https://climfactory.com/img/.cms/Article%202.jpeg",
         "features": [
-          "Climatisation réversible",
-          "Multi-split",
-          "Gainable",
-          "Installation discrète"
+          "Climatisation mono & multi-split",
+          "Système gainable invisible",
+          "Technologie Inverter économique",
+          "Installation certifiée F-GAS",
+          "Filtres purificateurs d'air",
+          "Garantie fabricant 5 ans"
         ],
-        "href": "/services/climatisation"
-      },
-      {
-        "icon": "wind",
-        "situation": "Air intérieur mal ventilé",
-        "title": "Ventilation",
-        "benefit": "VMC et systèmes de ventilation pour un air sain chez vous.",
-        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-        "features": [
-          "VMC simple flux",
-          "VMC double flux",
-          "Entretien VMC"
-        ],
-        "href": "/services/ventilation"
+        "href": "/services/climatisation",
+        "badge": "Éco-responsable",
+        "stats": {
+          "value": "-65%",
+          "label": "Consommation vs chauffage électrique"
+        },
+        "pricing": {
+          "startingAt": "1 290€",
+          "unit": "pose comprise"
+        }
       },
       {
         "icon": "thermometer",
         "situation": "Réduire ma consommation d'énergie",
-        "title": "Pompe à chaleur",
-        "benefit": "Jusqu'à 70% d'économies sur votre facture de chauffage.",
+        "title": "Pompe à Chaleur",
+        "benefit": "Économisez jusqu'à 75% sur vos factures de chauffage avec une pompe à chaleur dernière génération.",
+        "description": "Solution de chauffage écologique et économique. Éligible aux aides MaPrimeRénov' et CEE.",
         "image": "https://bo.calculeo.fr/sites/default/files/styles/web_p/public/2022-01/PAC_TopPage.jpg.webp",
         "features": [
-          "Air/air et air/eau",
-          "Géothermie",
-          "Aides financières",
-          "Économies 70%"
+          "PAC air/eau haute température",
+          "PAC air/air réversible",
+          "Géothermie & aquathermie",
+          "Aides financières incluses",
+          "ROI en 5-7 ans",
+          "Maintenance préventive"
         ],
-        "href": "/services/pompe-a-chaleur"
+        "href": "/services/pompe-a-chaleur",
+        "badge": "★ Populaire",
+        "stats": {
+          "value": "-70%",
+          "label": "Économies d'énergie"
+        },
+        "pricing": {
+          "startingAt": "8 900€",
+          "unit": "après aides"
+        }
+      },
+      {
+        "icon": "wind",
+        "situation": "Air intérieur mal ventilé",
+        "title": "VMC & Ventilation",
+        "benefit": "Assainissez votre air intérieur et éliminez humidité et polluants avec nos systèmes de ventilation.",
+        "description": "Une bonne ventilation est essentielle pour votre santé et la durabilité de votre logement.",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+        "features": [
+          "VMC simple flux autoréglable",
+          "VMC double flux avec récupération",
+          "Ventilation hygro-réglable",
+          "Entretien & nettoyage VMC",
+          "Traitement anti-humidité",
+          "Conformité RT 2020"
+        ],
+        "href": "/services/ventilation",
+        "stats": {
+          "value": "90%",
+          "label": "Récupération chaleur"
+        },
+        "pricing": {
+          "startingAt": "650€",
+          "unit": "VMC simple flux"
+        }
       },
       {
         "icon": "zap",
         "situation": "Problème électrique ou mise aux normes",
-        "title": "Électricité",
-        "benefit": "Installation, dépannage et mise en conformité électrique.",
+        "title": "Électricité Générale",
+        "benefit": "Mise en conformité, rénovation électrique et dépannage par des électriciens qualifiés.",
+        "description": "Sécurisez votre installation électrique et bénéficiez d'un diagnostic complet gratuit.",
         "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=800",
         "features": [
-          "Mise aux normes",
-          "Tableau électrique",
-          "Dépannage 24/7"
+          "Mise aux normes NF C 15-100",
+          "Remplacement tableau électrique",
+          "Installation borne recharge VE",
+          "Dépannage électrique 24/7",
+          "Diagnostic électrique gratuit",
+          "Certification Qualifelec"
         ],
-        "href": "/services/electricite"
+        "href": "/services/electricite",
+        "badge": "Certifié",
+        "stats": {
+          "value": "24h/24",
+          "label": "Dépannage urgent"
+        },
+        "pricing": {
+          "startingAt": "75€",
+          "unit": "dépannage"
+        }
       }
     ],
-    "badge": "Nos Services",
     "cta": {
-      "text": "Demandez un Devis",
-      "href": "/devis",
+      "text": "Demander un devis gratuit",
+      "href": "/contact",
       "variant": "primary"
-    }
+    },
+    "layout": "tabs",
+    "showStats": true
   }
 }
