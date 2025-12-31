@@ -22,7 +22,7 @@
     "robots": "index, follow",
     "og": {
       "type": "website",
-      "image": "/images/og-home.jpg",
+      "image": "/logos/og-home.png",
       "imageAlt": "Thermosolis - Installation Pompe à Chaleur et Climatisation dans la Loire"
     },
     "structuredData": {
