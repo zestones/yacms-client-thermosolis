@@ -13,8 +13,8 @@
       "variant": "primary"
     },
     "secondaryCTA": {
-      "text": "01 23 45 67 89",
-      "href": "tel:+33123456789",
+      "text": "06 60 59 98 35",
+      "href": "tel:+33660599835",
       "variant": "outline"
     },
     "features": [

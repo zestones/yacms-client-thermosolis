@@ -5,26 +5,26 @@
   },
   "data": {
     "eyebrow": "Pourquoi nous choisir",
-    "title": "Une expertise reconnue depuis 15 ans",
-    "subtitle": "Des qualifications qui garantissent un travail soigné et conforme aux normes.",
+    "title": "Une expertise reconnue depuis plus de 20 ans",
+    "subtitle": "Artisan qualifié RGE avec des certifications qui garantissent un travail soigné et conforme aux normes.",
     "stats": [
       {
-        "value": "15",
+        "value": "23",
         "suffix": "ans",
-        "label": "d'expérience"
+        "label": "d'expérience artisanale"
       },
       {
-        "value": "2500",
+        "value": "100",
         "suffix": "+",
         "label": "clients satisfaits"
       },
       {
-        "value": "98",
-        "suffix": "%",
-        "label": "de recommandation"
+        "value": "2021",
+        "suffix": "",
+        "label": "date de création"
       },
       {
-        "value": "24",
+        "value": "48",
         "suffix": "h",
         "label": "délai d'intervention"
       }
@@ -32,56 +32,23 @@
     "certifications": [
       {
         "icon": "award",
-        "name": "super titre",
-        "description": "dfbdfbdfb dfbdfbdfb dfb\ndfbdfbdfb"
+        "name": "Certifié RGE",
+        "description": "Reconnu Garant de l'Environnement"
       },
       {
-        "name": ""
+        "icon": "shield-check",
+        "name": "Qualisol",
+        "description": "Installation de systèmes solaires thermiques"
       },
       {
-        "name": ""
+        "icon": "certificate",
+        "name": "Qualibat",
+        "description": "Certification professionnelle du bâtiment"
       },
       {
-        "name": ""
-      },
-      {
-        "name": ""
-      },
-      {
-        "name": ""
-      },
-      {
-        "name": ""
-      },
-      {
-        "name": ""
-      },
-      {
-        "name": ""
-      },
-      {
-        "name": ""
-      },
-      {
-        "name": ""
-      },
-      {
-        "name": ""
-      },
-      {
-        "name": ""
-      },
-      {
-        "name": ""
-      },
-      {
-        "name": ""
-      },
-      {
-        "name": ""
-      },
-      {
-        "name": ""
+        "icon": "zap",
+        "name": "QualiPAC",
+        "description": "Spécialiste en installation de pompes à chaleur"
       }
     ],
     "trustLogos": [
@@ -98,6 +65,6 @@
         "alt": "Logo QualiPAC"
       }
     ],
-    "trustLogosTitle": "Ils Nous font confiance"
+    "trustLogosTitle": "Nos certifications professionnelles"
   }
 }

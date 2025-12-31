@@ -29,12 +29,8 @@
         },
         "badge": "Urgence 24/7",
         "stats": {
-          "value": "2h",
+          "value": "48h",
           "label": "Délai d'intervention"
-        },
-        "pricing": {
-          "startingAt": "89€",
-          "unit": "intervention"
         }
       },
       {
@@ -58,12 +54,8 @@
         },
         "badge": "RGE QualiPAC",
         "stats": {
-          "value": "15 ans",
+          "value": "23 ans",
           "label": "Expérience"
-        },
-        "pricing": {
-          "startingAt": "120€",
-          "unit": "entretien"
         }
       },
       {
@@ -86,10 +78,6 @@
         "stats": {
           "value": "-65%",
           "label": "Consommation vs chauffage électrique"
-        },
-        "pricing": {
-          "startingAt": "1 290€",
-          "unit": "pose comprise"
         }
       },
       {
@@ -115,10 +103,6 @@
         "stats": {
           "value": "-70%",
           "label": "Économies d'énergie"
-        },
-        "pricing": {
-          "startingAt": "8 900€",
-          "unit": "après aides"
         }
       },
       {
@@ -143,10 +127,6 @@
         "stats": {
           "value": "90%",
           "label": "Récupération chaleur"
-        },
-        "pricing": {
-          "startingAt": "650€",
-          "unit": "VMC simple flux"
         }
       },
       {

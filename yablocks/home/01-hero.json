@@ -6,7 +6,7 @@
   "data": {
     "label": "Chauffage • Climatisation • Plomberie",
     "title": "Votre confort à domicile, notre priorité",
-    "subtitle": "Intervention rapide et professionnelle pour tous vos besoins dans toute l'Île-de-France.",
+    "subtitle": "Intervention rapide et professionnelle pour tous vos besoins en Auvergne-Rhône-Alpes.",
     "backgroundImage": {
       "src": "/images/plomberie.jpg",
       "alt": "Plomberie Image"
@@ -17,28 +17,28 @@
         "link": "/devis"
       },
       "secondary": {
-        "text": "01 23 45 67 89",
-        "link": "tel:+33123456789"
+        "text": "06 60 59 98 35",
+        "link": "tel:+33660599835"
       }
     },
     "features": [
-      "Intervention sous 24h garantie",
+      "Intervention sous 48h garantie",
       "Devis gratuit sans engagement",
-      "Techniciens certifiés RGE",
+      "Artisan certifié RGE",
       "Garantie pièces et main d'œuvre"
     ],
     "stats": [
       {
-        "value": "15+",
-        "label": "années"
+        "value": "23",
+        "label": "ans d'expérience"
       },
       {
-        "value": "2500+",
+        "value": "100+",
         "label": "clients"
       },
       {
-        "value": "98%",
-        "label": "satisfaction"
+        "value": "RGE",
+        "label": "certifié"
       }
     ]
   }

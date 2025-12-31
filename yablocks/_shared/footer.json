@@ -7,12 +7,12 @@
     "brand": {
       "name": "Thermosolis",
       "logo": "/logos/logo-dark.png",
-      "tagline": "Expert en chauffage, climatisation et énergies renouvelables depuis 2009.",
+      "tagline": "Artisan expert en chauffage, climatisation et énergies renouvelables. Plus de 20 ans d'expérience à votre service.",
       "alt": "Thermosolis"
     },
     "contact": {
-      "address": "123 Avenue de la République\n75011 Paris",
-      "phone": "01 23 45 67 89",
+      "address": "15 rue Patroa\n42100 Saint-Étienne",
+      "phone": "06 60 59 98 35",
       "email": "contact@thermosolis.fr",
       "hours": "Lun-Ven : 8h-18h\nSam : 9h-12h"
     },
@@ -29,16 +29,16 @@
             "href": "/services/climatisation"
           },
           {
-            "text": "Pompe à chaleur",
-            "href": "/services/pompe-a-chaleur"
+            "text": "Ventilation",
+            "href": "/services/ventilation"
           },
           {
             "text": "Panneaux solaires",
             "href": "/services/solaire"
           },
           {
-            "text": "Entretien",
-            "href": "/services/entretien"
+            "text": "Pompe à chaleur",
+            "href": "/services/pompe-a-chaleur"
           }
         ]
       },
@@ -56,20 +56,12 @@
           {
             "text": "Témoignages",
             "href": "/temoignages"
-          },
-          {
-            "text": "Recrutement",
-            "href": "/recrutement"
           }
         ]
       },
       {
-        "title": "Ressources",
+        "title": "Informations",
         "links": [
-          {
-            "text": "Blog",
-            "href": "/blog"
-          },
           {
             "text": "Aides et subventions",
             "href": "/aides"
@@ -85,20 +77,7 @@
         ]
       }
     ],
-    "socialLinks": [
-      {
-        "platform": "facebook",
-        "href": "https://facebook.com/thermosolis"
-      },
-      {
-        "platform": "instagram",
-        "href": "https://instagram.com/thermosolis"
-      },
-      {
-        "platform": "linkedin",
-        "href": "https://linkedin.com/company/thermosolis"
-      }
-    ],
+    "socialLinks": [],
     "certifications": [
       {
         "src": "/logos/rge.png",
@@ -111,6 +90,10 @@
       {
         "src": "/logos/qualipac.png",
         "alt": "QualiPAC"
+      },
+      {
+        "src": "/logos/qualisol.png",
+        "alt": "Qualisol"
       }
     ],
     "legal": {
