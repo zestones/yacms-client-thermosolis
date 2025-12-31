@@ -6,7 +6,7 @@
   "data": {
     "brand": {
       "name": "Thermosolis",
-      "logo": "/logo-white.svg",
+      "logo": "/logos/logo-dark.png",
       "tagline": "Expert en chauffage, climatisation et énergies renouvelables depuis 2009."
     },
     "contact": {
@@ -100,15 +100,15 @@
     ],
     "certifications": [
       {
-        "src": "/logos/rge.svg",
+        "src": "/logos/rge.png",
         "alt": "RGE"
       },
       {
-        "src": "/logos/qualibat.svg",
+        "src": "/logos/qualibat.avif",
         "alt": "Qualibat"
       },
       {
-        "src": "/logos/qualipac.svg",
+        "src": "/logos/qualipac.png",
         "alt": "QualiPAC"
       }
     ],
