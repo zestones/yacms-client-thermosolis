@@ -1,14 +1,20 @@
 {
   "meta": {
-    "title": "Accueil - Thermosolis | Expert Chauffage & Climatisation",
-    "description": "Expert en chauffage, climatisation et énergies renouvelables. Plus de 15 ans d'expérience. Devis gratuit et intervention rapide 24/7.",
+    "title": "Thermosolis - Pompe à Chaleur & Climatisation Saint-Étienne (42)",
+    "description": "Installation pompe à chaleur, climatisation et chauffage dans la Loire (42). Artisan RGE certifié depuis 2002. Intervention sous 48h à Saint-Étienne, Firminy, Roanne. Devis gratuit.",
     "keywords": [
-      "chauffage",
-      "climatisation",
-      "pompe à chaleur",
-      "panneaux solaires",
-      "ventilation",
-      "RGE"
+      "pompe à chaleur Saint-Étienne",
+      "climatisation Loire 42",
+      "chauffage Saint-Étienne",
+      "pompe à chaleur Loire",
+      "climatisation Saint-Étienne",
+      "plomberie Firminy",
+      "chauffagiste RGE Loire",
+      "PAC air-eau Saint-Étienne",
+      "installation climatisation Roanne",
+      "artisan chauffagiste 42",
+      "pompe à chaleur Firminy",
+      "Saint-Chamond climatisation"
     ],
     "author": "Thermosolis",
     "canonical": "https://thermosolis.fr/",
@@ -17,7 +23,53 @@
     "og": {
       "type": "website",
       "image": "/images/og-home.jpg",
-      "imageAlt": "Thermosolis - Votre expert en confort thermique"
+      "imageAlt": "Thermosolis - Installation Pompe à Chaleur et Climatisation dans la Loire"
+    },
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "Thermosolis",
+      "logo": "/logos/logo-dark.png",
+      "address": {
+        "street": "15 rue Patroa",
+        "city": "Saint-Étienne",
+        "postalCode": "42100",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "FR"
+      },
+      "geo": {
+        "latitude": 45.4339083,
+        "longitude": 4.4250168
+      },
+      "phone": "+33660599835",
+      "email": "contact@thermosolis.fr",
+      "priceRange": "€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "18:00"
+        },
+        {
+          "days": [
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "12:00"
+        }
+      ],
+      "serviceArea": {
+        "radius": 70000
+      },
+      "rating": {
+        "value": 5,
+        "count": 100
+      }
     }
   },
   "theme": "thermosolis",

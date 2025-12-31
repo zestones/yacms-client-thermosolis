@@ -5,15 +5,15 @@
   },
   "data": {
     "title": "Comment pouvons-nous vous aider ?",
-    "subtitle": "Des solutions complètes pour votre confort et vos économies d'énergie. Intervention rapide dans tout le secteur.",
+    "subtitle": "Solutions de chauffage et climatisation à Saint-Étienne, Firminy, Roanne et dans toute la Loire. Intervention sous 48h dans un rayon de 70km.",
     "badge": "Nos expertises",
     "services": [
       {
         "icon": "droplets",
         "situation": "Fuite ou problème d'eau",
         "title": "Plomberie & Sanitaires",
-        "benefit": "Intervention rapide pour tous vos problèmes de plomberie. Dépannage d'urgence disponible 24h/24 et 7j/7.",
-        "description": "De la simple fuite au remplacement complet de votre installation sanitaire, nos plombiers certifiés interviennent rapidement.",
+        "benefit": "Intervention rapide pour tous vos problèmes de plomberie dans la Loire. Service d'urgence disponible.",
+        "description": "De la simple fuite au remplacement complet de votre installation sanitaire à Saint-Étienne et environs.",
         "image": "/images/plomberie.jpg",
         "features": [
           "Dépannage urgent 24h/24",
