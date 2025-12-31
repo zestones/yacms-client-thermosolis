@@ -7,7 +7,8 @@
     "brand": {
       "name": "Thermosolis",
       "logo": "/logos/logo-dark.png",
-      "tagline": "Expert en chauffage, climatisation et énergies renouvelables depuis 2009."
+      "tagline": "Expert en chauffage, climatisation et énergies renouvelables depuis 2009.",
+      "alt": "Thermosolis"
     },
     "contact": {
       "address": "123 Avenue de la République\n75011 Paris",
