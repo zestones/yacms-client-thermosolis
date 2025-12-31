@@ -18,7 +18,7 @@
       "imageAlt": "Thermosolis - Page non trouvée"
     }
   },
-  "theme": "thermosolis",
+  "theme": "light",
   "blocks": [
     "../_shared/navigation.json",
     "./not_found.json",
