@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/credentials/TrustCredentials",
+    "section": "home/trust"
+  },
+  "data": {
+    "eyebrow": "Pourquoi nous choisir",
+    "title": "Une expertise reconnue depuis plus de 20 ans",
+    "subtitle": "Artisan qualifié RGE avec des certifications qui garantissent un travail soigné et conforme aux normes.",
+    "stats": [
+      {
+        "value": "23",
+        "suffix": "ans",
+        "label": "d'expérience artisanale"
+      },
+      {
+        "value": "100",
+        "suffix": "+",
+        "label": "clients satisfaits"
+      },
+      {
+        "value": "2021",
+        "suffix": "",
+        "label": "date de création"
+      },
+      {
+        "value": "48",
+        "suffix": "h",
+        "label": "délai d'intervention"
+      }
+    ],
+    "certifications": [
+      {
+        "icon": "award",
+        "name": "Certifié RGE",
+        "description": "Reconnu Garant de l'Environnement"
+      },
+      {
+        "icon": "shield-check",
+        "name": "Qualisol",
+        "description": "Installation de systèmes solaires thermiques"
+      },
+      {
+        "icon": "certificate",
+        "name": "Qualibat",
+        "description": "Certification professionnelle du bâtiment"
+      },
+      {
+        "icon": "zap",
+        "name": "QualiPAC",
+        "description": "Spécialiste en installation de pompes à chaleur"
+      }
+    ],
+    "trustLogos": [
+      {
+        "src": "/logos/rge.png",
+        "alt": "Logo RGE"
+      },
+      {
+        "src": "/logos/qualibat.avif",
+        "alt": "Logo Qualibat"
+      },
+      {
+        "src": "/logos/qualipac.png",
+        "alt": "Logo QualiPAC"
+      },
+      {
+        "src": "/logos/qualisol.png",
+        "alt": "Logo QualiSol"
+      }
+    ],
+    "trustLogosTitle": "Nos certifications professionnelles"
+  }
+}

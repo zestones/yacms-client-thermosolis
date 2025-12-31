@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "component": "blocks/content/user-context/UserContext01",
+    "section": "home/user-context"
+  },
+  "data": {
+    "title": "Votre confort à la maison n'est plus ce qu'il était ?",
+    "subtitle": "Panne soudaine ou installation vieillissante — ces situations du quotidien méritent une vraie attention.",
+    "closingStatement": "Ces situations sont plus fréquentes que vous ne le pensez — et elles ont toutes une solution.",
+    "contexts": [
+      {
+        "type": "urgent",
+        "heading": "Quelque chose ne fonctionne plus",
+        "situations": [
+          "Votre chauffage est tombé en panne",
+          "Plus d'eau chaude depuis ce matin",
+          "La climatisation ne refroidit plus",
+          "Une odeur inhabituelle se dégage"
+        ]
+      },
+      {
+        "type": "improvement",
+        "heading": "Ce n'est pas une urgence, mais…",
+        "situations": [
+          "Certaines pièces restent froides l'hiver",
+          "Vos factures d'énergie augmentent",
+          "Votre installation a plus de 15 ans",
+          "Vous pensez à passer aux énergies renouvelables"
+        ]
+      }
+    ],
+    "eyebrow": "Vous reconnaissez-vous ?",
+    "urgentLabel": "Situation urgente",
+    "improvementLabel": "Besoin d'amélioration"
+  }
+}

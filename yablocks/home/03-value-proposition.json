@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "component": "blocks/content/proposition/ValueProposition",
+    "section": "home/value-proposition"
+  },
+  "data": {
+    "eyebrow": "Comment ça marche",
+    "title": "Du diagnostic à l'intervention en 48h",
+    "subtitle": "Pas de devis à rallonge, pas de surprise à la facture. On identifie le problème, on vous explique les options, vous décidez.",
+    "steps": [
+      {
+        "icon": "phone",
+        "title": "Vous nous appelez",
+        "description": "Décrivez votre situation. On vous dit immédiatement si c'est urgent ou si ça peut attendre."
+      },
+      {
+        "icon": "search",
+        "title": "On vient voir",
+        "description": "Déplacement gratuit. On diagnostique sur place, pas au téléphone."
+      },
+      {
+        "icon": "clipboard",
+        "title": "Devis clair sous 24h",
+        "description": "Prix fixe, détaillé, sans mauvaise surprise. Vous savez exactement ce que vous payez."
+      },
+      {
+        "icon": "wrench",
+        "title": "Intervention rapide",
+        "description": "Dès validation, on intervient. Souvent sous 48h, parfois le jour même."
+      }
+    ],
+    "outcome": {
+      "title": "Votre problème réglé, sans prise de tête",
+      "points": [
+        "Un seul interlocuteur",
+        "Prix garanti",
+        "Garantie 2 ans incluse"
+      ]
+    },
+    "proof": {
+      "stat": "100+",
+      "label": "clients nous ont fait confiance"
+    },
+    "outcomeLabel": "TEST"
+  }
+}

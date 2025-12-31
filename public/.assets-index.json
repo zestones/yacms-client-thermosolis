@@ -1,0 +1,15 @@
+{
+  "images": [
+    "/images/panneau_solaire.jpeg",
+    "/images/plomberie.jpg"
+  ],
+  "logos": [
+    "/logos/logo-dark.png",
+    "/logos/logo.png",
+    "/logos/qualibat.avif",
+    "/logos/qualipac.png",
+    "/logos/qualisol.png",
+    "/logos/rge.png"
+  ],
+  "assets": []
+}

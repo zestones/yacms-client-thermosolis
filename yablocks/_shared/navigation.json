@@ -1,13 +1,13 @@
 {
   "meta": {
-    "component": "blocks/navigation/PrimaryNavigation",
+    "component": "blocks/layout/navigation/PrimaryNavigation",
     "section": "home/navigation"
   },
   "data": {
     "logo": {
-      "text": "ClimatExpert",
+      "text": "Thermosolis",
       "href": "/",
-      "image": "/logo-dark.png"
+      "image": "/logos/logo-dark.png"
     },
     "links": [
       {

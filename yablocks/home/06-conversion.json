@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "component": "blocks/conversion/cta/CTABanner",
+    "section": "home/cta"
+  },
+  "data": {
+    "eyebrow": "Prêt à commencer ?",
+    "title": "Demandez votre devis gratuit",
+    "subtitle": "Réponse sous 24h. Sans engagement.",
+    "primaryCTA": {
+      "text": "Obtenir un devis",
+      "href": "/devis",
+      "variant": "primary"
+    },
+    "secondaryCTA": {
+      "text": "06 60 59 98 35",
+      "href": "tel:+33660599835",
+      "variant": "outline"
+    },
+    "features": [
+      "Devis gratuit",
+      "Sans engagement",
+      "Réponse sous 24h"
+    ],
+    "layout": "split"
+  }
+}

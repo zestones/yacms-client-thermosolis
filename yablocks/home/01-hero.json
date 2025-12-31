@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/GlassHeroCentered",
+    "section": "home/hero"
+  },
+  "data": {
+    "label": "Chauffage • Climatisation • Plomberie",
+    "title": "Votre confort à domicile, notre priorité",
+    "subtitle": "Intervention rapide et professionnelle pour tous vos besoins en Auvergne-Rhône-Alpes.",
+    "backgroundImage": {
+      "src": "/images/plomberie.jpg",
+      "alt": "Plomberie Image"
+    },
+    "cta": {
+      "primary": {
+        "text": "Demander un devis",
+        "link": "/devis"
+      },
+      "secondary": {
+        "text": "06 60 59 98 35",
+        "link": "tel:+33660599835"
+      }
+    },
+    "features": [
+      "Intervention sous 48h garantie",
+      "Devis gratuit sans engagement",
+      "Artisan certifié RGE",
+      "Garantie pièces et main d'œuvre"
+    ],
+    "stats": [
+      {
+        "value": "23",
+        "label": "ans d'expérience"
+      },
+      {
+        "value": "100+",
+        "label": "clients"
+      },
+      {
+        "value": "RGE",
+        "label": "certifié"
+      }
+    ]
+  }
+}
