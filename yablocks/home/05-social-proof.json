@@ -32,15 +32,15 @@
     "certifications": [],
     "trustLogos": [
       {
-        "src": "/logos/rge.svg",
+        "src": "/logos/rge.png",
         "alt": "Logo RGE"
       },
       {
-        "src": "/logos/qualibat.svg",
+        "src": "/logos/qualibat.avif",
         "alt": "Logo Qualibat"
       },
       {
-        "src": "/logos/qualipac.svg",
+        "src": "/logos/qualipac.png",
         "alt": "Logo QualiPAC"
       }
     ]
