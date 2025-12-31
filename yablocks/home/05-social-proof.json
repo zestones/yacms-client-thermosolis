@@ -29,7 +29,61 @@
         "label": "délai d'intervention"
       }
     ],
-    "certifications": [],
+    "certifications": [
+      {
+        "icon": "award",
+        "name": "super titre",
+        "description": "dfbdfbdfb dfbdfbdfb dfb\ndfbdfbdfb"
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      }
+    ],
     "trustLogos": [
       {
         "src": "/logos/rge.png",
