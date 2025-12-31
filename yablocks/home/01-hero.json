@@ -29,7 +29,8 @@
       "18": "j",
       "19": "p",
       "20": "g",
-      "src": "/images/plomberie.jpg"
+      "src": "/images/plomberie.jpg",
+      "alt": "Plomberie Image"
     },
     "cta": {
       "primary": {
