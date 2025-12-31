@@ -2,6 +2,8 @@
   "images": [
     "/images/plomberie.jpg"
   ],
-  "logos": [],
+  "logos": [
+    "/logos/rge.png"
+  ],
   "assets": []
 }
