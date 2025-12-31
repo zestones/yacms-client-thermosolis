@@ -23,7 +23,10 @@
           "Débouchage canalisations",
           "Garantie pièces & main d'œuvre"
         ],
-        "href": "/services/plomberie",
+        "cta": {
+          "text": "Découvrir",
+          "href": "/services/plomberie"
+        },
         "badge": "Urgence 24/7",
         "stats": {
           "value": "2h",
@@ -49,7 +52,10 @@
           "Entretien annuel obligatoire",
           "Contrat de maintenance"
         ],
-        "href": "/services/chauffage",
+        "cta": {
+          "text": "Découvrir",
+          "href": "/services/chauffage"
+        },
         "badge": "RGE QualiPAC",
         "stats": {
           "value": "15 ans",
@@ -101,7 +107,10 @@
           "ROI en 5-7 ans",
           "Maintenance préventive"
         ],
-        "href": "/services/pompe-a-chaleur",
+        "cta": {
+          "text": "Découvrir",
+          "href": "/services/chauffage"
+        },
         "badge": "★ Populaire",
         "stats": {
           "value": "-70%",
@@ -127,7 +136,10 @@
           "Traitement anti-humidité",
           "Conformité RT 2020"
         ],
-        "href": "/services/ventilation",
+        "cta": {
+          "text": "Découvrir",
+          "href": "/services/ventilation"
+        },
         "stats": {
           "value": "90%",
           "label": "Récupération chaleur"
@@ -152,7 +164,10 @@
           "Diagnostic électrique gratuit",
           "Certification Qualifelec"
         ],
-        "href": "/services/electricite",
+        "cta": {
+          "text": "Découvrir",
+          "href": "/services/electricite"
+        },
         "badge": "Certifié",
         "stats": {
           "value": "24h/24",
