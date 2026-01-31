@@ -5,5 +5,7 @@
     "keywords": []
   },
   "theme": "light",
-  "blocks": []
+  "blocks": [
+    "./glass-hero-centered.json"
+  ]
 }

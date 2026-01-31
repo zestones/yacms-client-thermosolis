@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/GlassHeroCentered",
+    "section": "services/plomberie/glass-hero-centered"
+  },
+  "data": {
+    "label": "",
+    "title": "",
+    "subtitle": "",
+    "backgroundImage": {
+      "src": "/images/plomberie.jpg",
+      "alt": ""
+    },
+    "cta": {
+      "primary": {
+        "text": "",
+        "link": ""
+      }
+    },
+    "features": [
+      ""
+    ]
+  }
+}
