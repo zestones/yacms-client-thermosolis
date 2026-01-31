@@ -35,7 +35,7 @@
         "Votre assurance peut refuser de couvrir les dégâts",
         "Les dommages peuvent toucher vos voisins (appartement)"
       ],
-      "variant": "warning"
+      "variant": "danger"
     },
     "transition": {
       "title": "La bonne nouvelle ?",
