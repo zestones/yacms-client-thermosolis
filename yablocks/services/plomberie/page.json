@@ -6,6 +6,7 @@
   },
   "theme": "thermosolis-default",
   "blocks": [
-    "./glass-hero-centered.json"
+    "./glass-hero-centered.json",
+    "./problem-agitation01.json"
   ]
 }
