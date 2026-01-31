@@ -4,21 +4,42 @@
     "section": "services/plomberie/glass-hero-centered"
   },
   "data": {
-    "label": "",
-    "title": "",
-    "subtitle": "",
+    "label": "Urgence 24h/24 • 7j/7",
+    "title": "Plombier à Saint-Étienne & dans la Loire",
+    "subtitle": "Fuite d'eau, panne de chauffe-eau, canalisation bouchée ? Intervention rapide sous 48h par un artisan qualifié. Dépannage et installation dans un rayon de 70km autour de Saint-Étienne.",
     "backgroundImage": {
       "src": "/images/plomberie.jpg",
-      "alt": ""
+      "alt": "Plombier professionnel intervenant sur une installation sanitaire à Saint-Étienne"
     },
     "cta": {
       "primary": {
-        "text": "",
+        "text": "Demander un dépannage",
         "link": ""
+      },
+      "secondary": {
+        "text": "06 60 59 98 35",
+        "link": "tel:+33660599835"
       }
     },
     "features": [
-      ""
+      "Intervention sous 48h garantie",
+      "Devis gratuit et sans engagement",
+      "Détection de fuites sans casse",
+      "Garantie pièces et main d'œuvre"
+    ],
+    "stats": [
+      {
+        "value": "48h",
+        "label": "Délai d'intervention"
+      },
+      {
+        "value": "23 ans",
+        "label": "D'expérience"
+      },
+      {
+        "value": "70km",
+        "label": "Zone couverte"
+      }
     ]
   }
 }
