@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "component": "blocks/content/timeline/Timeline001",
+    "section": "about/timeline001"
+  },
+  "data": {
+    "badge": "Parcours & Valeurs",
+    "title": "Plus de 20 ans d'experience ",
+    "subtitle": "De l'artisanat individuel a une entreprise reconnue",
+    "items": [
+      {
+        "year": "2002",
+        "title": "Création de l'entreprise",
+        "description": "Les ressources du modèle textuel ont régulièrement inspiré la méthode des sciences humaines et sociales, de même que la philologie avait inspiré la formulation d’une méthodologie de l’histoire à ses débuts. Mais qu’est-ce qu’un texte ? On verra dans ce qui suit que le texte, dans les débats contemporains, peut se dire en plusieurs sens. Sans discuter de front ici la réflexion menée par Paul Ricœur dans un article ",
+        "image": {
+          "src": "/images/plomberie.jpg",
+          "alt": ""
+        },
+        "icon": "rocket"
+      },
+      {
+        "year": "2010",
+        "title": "Dissolution de l'entreprise",
+        "description": "Les ressources du modèle textuel ont régulièrement inspiré la méthode des sciences humaines et sociales, de même que la philologie avait inspiré la formulation d’une méthodologie de l’histoire à ses débuts. Mais qu’est-ce qu’un texte ? On verra dans ce qui suit que le texte, dans les débats contemporains, peut se dire en plusieurs sens. Sans discuter de front ici la réflexion menée par Paul Ricœur dans un article homonyme, on cherchera à situer ",
+        "image": {
+          "src": "/images/BTP.jpg",
+          "alt": ""
+        },
+        "icon": "users",
+        "highlighted": true
+      },
+      {
+        "year": "2020",
+        "title": "Renaissance",
+        "description": "Les ressources du modèle textuel ont régulièrement inspiré la méthode des sciences humaines et sociales, de même que la philologie avait inspiré la formulation d’une méthodologie de l’histoire à ses débuts. Mais qu’est-ce qu’un texte ? On verra dans ce qui suit que le texte, dans les débats contemporains, peut se dire en plusieurs sens. Sans discuter de front ici la réflexion menée par Paul Ricœur dans un article homonyme, on cherchera à situer les enjeux du débat sur la textualité en croisant des champs aussi",
+        "image": {
+          "src": "/images/panneau_solaire.jpeg",
+          "alt": ""
+        },
+        "icon": "lightbulb"
+      }
+    ]
+  }
+}

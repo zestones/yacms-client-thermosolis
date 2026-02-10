@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero002",
+    "section": "about/hero002"
+  },
+  "data": {
+    "badge": "Depuis 2002",
+    "title": "Votre artisan de confiance",
+    "titleHighlight": "à Saint Etienne",
+    "subtitle": "Découvrez qui nous sommes",
+    "backgroundImage": {
+      "src": "/images/panneau_solaire.jpeg",
+      "alt": ""
+    },
+    "cta": {
+      "primary": {
+        "text": "",
+        "link": ""
+      }
+    }
+  }
+}

@@ -5,5 +5,11 @@
     "keywords": []
   },
   "theme": "light",
-  "blocks": []
+  "blocks": [
+    "./hero002.json",
+    "./timeline001.json",
+    "./stats-bar001.json",
+    "./certification001.json",
+    "./team001.json"
+  ]
 }
