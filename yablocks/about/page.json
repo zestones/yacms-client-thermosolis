@@ -6,6 +6,7 @@
   },
   "theme": "light",
   "blocks": [
+    "./primary-navigation.json",
     "./hero002.json",
     "./timeline001.json",
     "./stats-bar001.json",

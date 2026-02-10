@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "component": "blocks/layout/navigation/PrimaryNavigation",
+    "section": "about/primary-navigation"
+  },
+  "data": {
+    "logo": {
+      "text": "Thermosolis",
+      "href": "/",
+      "image": "/logos/logo-dark.png"
+    },
+    "links": [
+      {
+        "label": "Accueil",
+        "href": "/"
+      },
+      {
+        "label": "Services",
+        "href": "#services"
+      },
+      {
+        "label": "A propos",
+        "href": ""
+      },
+      {
+        "label": "Réalisation",
+        "href": ""
+      },
+      {
+        "label": "Contact",
+        "href": ""
+      }
+    ],
+    "cta": {
+      "text": "Devis gratuit"
+    }
+  }
+}
