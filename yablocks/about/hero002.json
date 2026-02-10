@@ -14,8 +14,8 @@
     },
     "cta": {
       "primary": {
-        "text": "",
-        "link": ""
+        "text": "Notre Histoire",
+        "link": "/about"
       }
     }
   }
