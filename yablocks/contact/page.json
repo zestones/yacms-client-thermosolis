@@ -5,5 +5,7 @@
     "keywords": []
   },
   "theme": "light",
-  "blocks": []
+  "blocks": [
+    "./contact01.json"
+  ]
 }
