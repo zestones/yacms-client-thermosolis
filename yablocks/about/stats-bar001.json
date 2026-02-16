@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/social-proof/stats/StatsBar001",
+    "component": "blocks/social-proof/stats/Stats001",
     "section": "about/stats-bar001"
   },
   "data": {
