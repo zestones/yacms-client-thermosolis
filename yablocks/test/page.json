@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "test",
+    "description": "",
+    "keywords": []
+  },
+  "theme": "elegant",
+  "blocks": [
+    "./hero001.json"
+  ]
+}

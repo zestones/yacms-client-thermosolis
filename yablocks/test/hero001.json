@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero001",
+    "section": "test/hero001"
+  },
+  "data": {
+    "badge": "Studio Web",
+    "title": "YACMS Design Studio",
+    "titleHighlight": "Prêt sous 2 semaine",
+    "subtitle": "Site vitrine préparé par notre outil genial",
+    "cta": {
+      "primary": {
+        "text": "Demander un devis",
+        "link": ""
+      }
+    },
+    "trustBadges": [
+      {
+        "icon": "wrench",
+        "text": "Ultra solide"
+      },
+      {
+        "icon": "shield",
+        "text": "Robustesse"
+      }
+    ]
+  }
+}
