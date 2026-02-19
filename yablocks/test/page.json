@@ -4,7 +4,7 @@
     "description": "",
     "keywords": []
   },
-  "theme": "carbon-flame",
+  "theme": "yacms-amber",
   "blocks": [
     "./hero001.json",
     "./problem-solution001.json",
