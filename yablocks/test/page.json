@@ -4,7 +4,7 @@
     "description": "",
     "keywords": []
   },
-  "theme": "theme001",
+  "theme": "carbon-flame",
   "blocks": [
     "./hero001.json"
   ]
