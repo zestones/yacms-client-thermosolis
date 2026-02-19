@@ -7,13 +7,14 @@
     "/images/plomberie.jpg"
   ],
   "logos": [
+    "/logos/image 5.png",
     "/logos/logo-dark.png",
     "/logos/logo.png",
+    "/logos/og-home.png",
     "/logos/qualibat.avif",
     "/logos/qualipac.png",
     "/logos/qualisol.png",
-    "/logos/rge.png",
-    "/logos/og-home.png"
+    "/logos/rge.png"
   ],
   "assets": []
 }
