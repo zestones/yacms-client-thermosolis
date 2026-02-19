@@ -8,6 +8,7 @@
   "blocks": [
     "./hero001.json",
     "./problem-solution001.json",
-    "./primary-navigation.json"
+    "./primary-navigation.json",
+    "./offer-cards001.json"
   ]
 }
