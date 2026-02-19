@@ -6,6 +6,8 @@
   },
   "theme": "carbon-flame",
   "blocks": [
-    "./hero001.json"
+    "./hero001.json",
+    "./problem-solution001.json",
+    "./primary-navigation.json"
   ]
 }
