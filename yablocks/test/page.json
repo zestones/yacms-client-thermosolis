@@ -4,7 +4,7 @@
     "description": "",
     "keywords": []
   },
-  "theme": "yacms-amber",
+  "theme": "phantom-violet",
   "blocks": [
     "./hero001.json",
     "./problem-solution001.json",
