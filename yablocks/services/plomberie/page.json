@@ -4,6 +4,9 @@
     "description": "",
     "keywords": []
   },
-  "theme": "thermosolis-default",
-  "blocks": []
+  "theme": "amber",
+  "blocks": [
+    "./hero-service.json",
+    "./service-benefits.json"
+  ]
 }

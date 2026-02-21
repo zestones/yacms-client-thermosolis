@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "component": "blocks/content/features/ServiceBenefits",
+    "section": "services/plomberie/service-benefits"
+  },
+  "data": {
+    "badge": "Pourquoi ce service",
+    "title": "Les avantages d'une pompe à chaleur",
+    "subtitle": "Une solution performante qui combine économies, écologie et confort au quotidien. Voici pourquoi nos clients nous font confiance.",
+    "benefits": [
+      {
+        "icon": "trending-down",
+        "title": "Jusqu'à 70% d'économies",
+        "description": "Réduisez drastiquement votre facture de chauffage grâce à un coefficient de performance exceptionnel. Rentabilisé en 3 à 5 ans."
+      },
+      {
+        "icon": "leaf",
+        "title": "Énergie renouvelable",
+        "description": "La pompe à chaleur capte les calories de l'air extérieur, une source d'énergie gratuite et inépuisable. Réduisez votre empreinte carbone."
+      },
+      {
+        "icon": "zap",
+        "title": "Confort immédiat",
+        "description": "Chauffage en hiver, rafraîchissement en été. Une température idéale toute l'année."
+      },
+      {
+        "icon": "shield-check",
+        "title": "Installation certifiée",
+        "description": "Techniciens QualiPAC. Respect strict des normes en vigueur."
+      },
+      {
+        "icon": "award",
+        "title": "Aides financières",
+        "description": "Éligible MaPrimeRénov', CEE et TVA réduite. On gère vos dossiers."
+      },
+      {
+        "icon": "wrench",
+        "title": "SAV réactif",
+        "description": "Contrat d'entretien annuel et dépannage sous 48h maximum."
+      }
+    ],
+    "cta": {
+      "text": "Demander un devis gratuit",
+      "link": "#contact"
+    }
+  }
+}

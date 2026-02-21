@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/HeroService",
+    "section": "services/plomberie/hero-service"
+  },
+  "data": {
+    "badge": "Chauffage",
+    "title": "Pompes à Chaleur",
+    "subtitle": "Installation, entretien et dépannage de pompes à chaleur air-eau et air-air. Profitez d'un confort thermique optimal tout en réduisant significativement votre facture énergétique.",
+    "image": {
+      "src": "/images/plomberie.jpg",
+      "alt": "Installation professionnelle d'une pompe à chaleur"
+    },
+    "cta": {
+      "text": "Demander un devis gratuit",
+      "link": "#contact"
+    },
+    "secondaryCta": {
+      "text": "06 60 59 98 35",
+      "link": "tel:0660599835"
+    },
+    "keyPoints": [
+      {
+        "title": "-70%",
+        "description": "Sur votre facture"
+      },
+      {
+        "title": "10 ans",
+        "description": "Garantie"
+      },
+      {
+        "title": "24h",
+        "description": "Devis gratuit"
+      },
+      {
+        "title": "500+",
+        "description": "Installations"
+      }
+    ],
+    "trustItems": [
+      "Certifié RGE QualiPAC",
+      "Éligible MaPrimeRénov'",
+      "Devis gratuit",
+      "SAV 7j/7"
+    ]
+  }
+}
