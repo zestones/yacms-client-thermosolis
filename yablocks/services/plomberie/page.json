@@ -5,8 +5,5 @@
     "keywords": []
   },
   "theme": "thermosolis-default",
-  "blocks": [
-    "./glass-hero-centered.json",
-    "./problem-agitation01.json"
-  ]
+  "blocks": []
 }
