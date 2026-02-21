@@ -7,17 +7,21 @@
     "badge": "Studio Web",
     "title": "YACMS Design Studio",
     "titleHighlight": "Prêt sous 2 semaine",
-    "subtitle": "Site vitrine préparé par notre outil genial",
+    "subtitle": "Nous proposons la création de site web E-commerce, vitrine, LandingPage etc.. ainsi que toute demande spécial pour cela contactez nous.",
     "cta": {
       "primary": {
         "text": "Demander un devis",
+        "link": ""
+      },
+      "secondary": {
+        "text": "Voir nos réalisations",
         "link": ""
       }
     },
     "trustBadges": [
       {
         "icon": "wrench",
-        "text": "Ultra solide"
+        "text": "Maintenance"
       },
       {
         "icon": "shield",
@@ -27,6 +31,7 @@
     "mockupImage": {
       "src": "/logos/long_violet_logo.png",
       "alt": ""
-    }
+    },
+    "metrics": []
   }
 }
