@@ -5,9 +5,5 @@
     "keywords": []
   },
   "theme": "thermosolis-default",
-  "blocks": [
-    "./hero-service.json",
-    "./expertise-section.json",
-    "./service-benefits.json"
-  ]
+  "blocks": []
 }
