@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "component": "blocks/content/process/ProcessStep002",
+    "section": "services/plomberie/process-step002"
+  },
+  "data": {
+    "badge": "Notre Méthodologie",
+    "title": "Notre Processus en 4 Étapes",
+    "steps": [
+      {
+        "title": "Consultation",
+        "description": "Étude personnalisée de vos besoins et analyse technique de votre habitat."
+      },
+      {
+        "title": "Devis & Planification",
+        "description": "Proposition détaillée et transparente avec calendrier d'exécution précis."
+      },
+      {
+        "title": "Installation",
+        "description": "Mise en œuvre par nos techniciens qualifiés dans le respect des normes."
+      },
+      {
+        "title": "Maintenance",
+        "description": "Suivi régulier et service après-vente pour assurer la longévité de vos systèmes."
+      }
+    ]
+  }
+}

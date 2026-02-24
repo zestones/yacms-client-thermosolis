@@ -5,5 +5,9 @@
     "keywords": []
   },
   "theme": "thermosolis-default",
-  "blocks": []
+  "blocks": [
+    "./hero003.json",
+    "./service-grid002.json",
+    "./process-step002.json"
+  ]
 }

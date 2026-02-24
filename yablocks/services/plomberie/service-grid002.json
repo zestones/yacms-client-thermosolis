@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "component": "blocks/content/features/ServiceGrid002",
+    "section": "services/plomberie/service-grid002"
+  },
+  "data": {
+    "badge": "Domaines d'intervention",
+    "title": "Des Services Experts pour une Performance Optimale",
+    "subtitle": "Nous combinons technologie de pointe et savoir-faire artisanal pour garantir votre sérénité au quotidien.",
+    "services": [
+      {
+        "icon": "flame",
+        "title": "Chauffage & Pompes à Chaleur",
+        "description": "Optimisez votre facture énergétique avec nos solutions thermodynamiques haute performance.",
+        "link": {
+          "text": "En savoir plus",
+          "href": "/services/chauffage"
+        }
+      },
+      {
+        "icon": "droplets",
+        "title": "Plomberie & Sanitaire",
+        "description": "De l'installation neuve au dépannage d'urgence, une expertise technique irréprochable.",
+        "link": {
+          "text": "En savoir plus",
+          "href": "/services/plomberie"
+        }
+      },
+      {
+        "icon": "snowflake",
+        "title": "Climatisation & Ventilation",
+        "description": "Un air pur et une température maîtrisée toute l'année pour un confort intérieur sans compromis.",
+        "link": {
+          "text": "En savoir plus",
+          "href": "/services/climatisation"
+        }
+      },
+      {
+        "icon": "sun",
+        "title": "Panneaux Photovoltaïques",
+        "description": "Produisez votre propre électricité et passez à l'autoconsommation intelligente.",
+        "link": {
+          "text": "En savoir plus",
+          "href": "/services/solaire"
+        }
+      }
+    ]
+  }
+}
