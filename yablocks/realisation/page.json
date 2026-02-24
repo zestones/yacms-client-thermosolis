@@ -4,7 +4,7 @@
     "description": "",
     "keywords": []
   },
-  "theme": "amber",
+  "theme": "thermosolis-default",
   "blocks": [
     "./hero004.json",
     "./portfolio-grid001.json",
