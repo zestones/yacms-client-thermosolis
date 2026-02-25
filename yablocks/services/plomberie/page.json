@@ -10,6 +10,7 @@
     "./service-grid002.json",
     "./process-step002.json",
     "./content-block001.json",
-    "./footer-columns.json"
+    "./footer-columns.json",
+    "./primary-navigation.json"
   ]
 }
