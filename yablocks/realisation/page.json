@@ -4,7 +4,7 @@
     "description": "",
     "keywords": []
   },
-  "theme": "theme001",
+  "theme": "thermosolis-default",
   "blocks": [
     "./hero006.json",
     "./stats002.json",
