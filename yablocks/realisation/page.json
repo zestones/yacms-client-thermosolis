@@ -6,9 +6,9 @@
   },
   "theme": "thermosolis-default",
   "blocks": [
-    "./hero004.json",
-    "./portfolio-grid001.json",
+    "./hero006.json",
     "./stats001.json",
-    "./footer-columns.json"
+    "./portfolio-grid001.json",
+    "./testimonial001.json"
   ]
 }

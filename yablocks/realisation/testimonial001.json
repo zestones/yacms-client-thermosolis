@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/testimonials/Testimonial001",
+    "section": "realisation/testimonial001"
+  },
+  "data": {
+    "quote": "Thermosolis a géré notre transition énergétique avec un professionnalisme exemplaire. Notre facture d'électricité a diminué de 70% dès la première année.",
+    "author": {
+      "name": "Jean Dupuis",
+      "role": "Directeur, Usine Logistique Lyon",
+      "avatar": {
+        "src": "/images/testimonials/jean-dupuis.jpg",
+        "alt": "Photo de Jean Dupuis"
+      }
+    }
+  }
+}
