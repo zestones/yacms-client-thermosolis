@@ -8,6 +8,7 @@
   "blocks": [
     "./hero004.json",
     "./portfolio-grid001.json",
-    "./stats001.json"
+    "./stats001.json",
+    "./footer-columns.json"
   ]
 }
