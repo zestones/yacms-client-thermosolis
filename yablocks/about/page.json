@@ -11,6 +11,7 @@
     "./timeline001.json",
     "./stats-bar001.json",
     "./certification001.json",
-    "./team001.json"
+    "./team001.json",
+    "./footer-columns.json"
   ]
 }
