@@ -4,24 +4,24 @@
     "section": "about/timeline001"
   },
   "data": {
-    "badge": "Parcours & Valeurs",
-    "title": "Plus de 20 ans d'experience ",
-    "subtitle": "De l'artisanat individuel a une entreprise reconnue",
+    "badge": "Parcours & Experience",
+    "title": "Plus de 20 ans d’expertise dans le bâtiment & l’énergie",
+    "subtitle": "De la plomberie traditionnelle aux solutions énergétiques modernes, Thermosolis s’appuie sur une expérience solide du terrain et une vision tournée vers l’avenir.",
     "items": [
       {
-        "year": "2002",
-        "title": "Création de l'entreprise",
+        "year": "Années 2000",
+        "title": "Les débuts - L’expérience terrain",
         "description": "Les ressources du modèle textuel ont régulièrement inspiré la méthode des sciences humaines et sociales, de même que la philologie avait inspiré la formulation d’une méthodologie de l’histoire à ses débuts. Mais qu’est-ce qu’un texte ? On verra dans ce qui suit que le texte, dans les débats contemporains, peut se dire en plusieurs sens. Sans discuter de front ici la réflexion menée par Paul Ricœur dans un article ",
         "image": {
-          "src": "/images/plomberie.jpg",
+          "src": "/images/entreprise.jpg",
           "alt": ""
         },
         "icon": "rocket"
       },
       {
-        "year": "2010",
-        "title": "Dissolution de l'entreprise",
-        "description": "Les ressources du modèle textuel ont régulièrement inspiré la méthode des sciences humaines et sociales, de même que la philologie avait inspiré la formulation d’une méthodologie de l’histoire à ses débuts. Mais qu’est-ce qu’un texte ? On verra dans ce qui suit que le texte, dans les débats contemporains, peut se dire en plusieurs sens. Sans discuter de front ici la réflexion menée par Paul Ricœur dans un article homonyme, on cherchera à situer ",
+        "year": "Année 2021",
+        "title": "Création de Thermosolis",
+        "description": "En 2021, Thermosolis est fondée avec une ambition claire : proposer des solutions énergétiques modernes, performantes et durables. L’entreprise se spécialise dans : Pompes à chaleur (PAC) Climatisation & CVC Chauffage haute performance Solutions solaires & énergies renouvelables",
         "image": {
           "src": "/images/BTP.jpg",
           "alt": ""
@@ -30,9 +30,9 @@
         "highlighted": true
       },
       {
-        "year": "2020",
-        "title": "Renaissance",
-        "description": "Les ressources du modèle textuel ont régulièrement inspiré la méthode des sciences humaines et sociales, de même que la philologie avait inspiré la formulation d’une méthodologie de l’histoire à ses débuts. Mais qu’est-ce qu’un texte ? On verra dans ce qui suit que le texte, dans les débats contemporains, peut se dire en plusieurs sens. Sans discuter de front ici la réflexion menée par Paul Ricœur dans un article homonyme, on cherchera à situer les enjeux du débat sur la textualité en croisant des champs aussi",
+        "year": "Année 2026",
+        "title": "Une entreprise qualifié",
+        "description": "En 2021, Thermosolis est fondée avec une ambition claire : proposer des solutions énergétiques modernes, performantes et durables. L’entreprise se spécialise dans : Pompes à chaleur (PAC) Climatisation & CVC Chauffage haute performance Solutions solaires & énergies renouvelables",
         "image": {
           "src": "/images/panneau_solaire.jpeg",
           "alt": ""
