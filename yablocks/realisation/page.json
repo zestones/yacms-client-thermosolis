@@ -7,8 +7,9 @@
   "theme": "thermosolis-default",
   "blocks": [
     "./hero006.json",
-    "./stats001.json",
-    "./portfolio-grid001.json",
-    "./testimonial001.json"
+    "./stats002.json",
+    "./portfolio-grid002.json",
+    "./testimonial001.json",
+    "./footer-columns.json"
   ]
 }
