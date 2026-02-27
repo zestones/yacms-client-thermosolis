@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero003",
+    "section": "services/hero003"
+  },
+  "data": {
+    "label": "Bienvenue",
+    "title": "Votre partenaire de confiance",
+    "subtitle": "Nous accompagnons les entreprises et les particuliers avec des solutions sur mesure, pensées pour durer. Découvrez une approche humaine, efficace et transparente.",
+    "backgroundImage": {
+      "src": "/images/hero-bg.jpg",
+      "alt": "Vue panoramique d'un espace de travail moderne"
+    },
+    "cta": {
+      "primary": {
+        "text": "Découvrir nos services",
+        "link": "/services"
+      },
+      "secondary": {
+        "text": "Nous contacter",
+        "link": "/contact"
+      }
+    },
+    "features": [
+      "Expertise reconnue depuis 15 ans",
+      "Accompagnement personnalisé",
+      "Résultats garantis",
+      "Support réactif 7j/7"
+    ],
+    "stats": [
+      {
+        "value": "500+",
+        "label": "Projets réalisés"
+      },
+      {
+        "value": "98%",
+        "label": "Clients satisfaits"
+      },
+      {
+        "value": "15 ans",
+        "label": "D'expérience"
+      }
+    ]
+  }
+}

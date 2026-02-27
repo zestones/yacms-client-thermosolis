@@ -4,6 +4,12 @@
     "description": "",
     "keywords": []
   },
-  "theme": "light",
-  "blocks": []
+  "theme": "thermosolis-default",
+  "blocks": [
+    "./hero003.json",
+    "./service-grid002.json",
+    "./process-step002.json",
+    "./content-block001.json",
+    "./footer-columns.json"
+  ]
 }
