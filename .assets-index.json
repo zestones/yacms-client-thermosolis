@@ -1,16 +1,29 @@
 {
   "images": [
+    "/images/BTP.jpg",
+    "/images/clim.jpg",
+    "/images/entreprise.jpg",
+    "/images/eole.jpg",
+    "/images/gru.jpg",
     "/images/panneau_solaire.jpeg",
-    "/images/plomberie.jpg"
+    "/images/plan.jpg",
+    "/images/plomberie.jpg",
+    "/images/premium_photo-1679917152396-4b18accacb9d.jpg",
+    "/images/sipi.png",
+    "/images/test.jpg"
   ],
   "logos": [
+    "/logos/image 5.png",
+    "/logos/logo_violet.png",
     "/logos/logo-dark.png",
     "/logos/logo.png",
+    "/logos/long_violet_logo.png",
+    "/logos/og-home.png",
     "/logos/qualibat.avif",
     "/logos/qualipac.png",
     "/logos/qualisol.png",
     "/logos/rge.png",
-    "/logos/og-home.png"
+    "/logos/YacmsLogo.png"
   ],
   "assets": []
 }

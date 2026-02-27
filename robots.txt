@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /.assets-index.json
+Disallow: /*.json$
 
 Sitemap: https://thermosolis.fr/sitemap-index.xml
