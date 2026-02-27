@@ -33,11 +33,6 @@
         "icon": "mail",
         "info": "contact@thermosolis.fr",
         "href": "contact@thermosolis.fr"
-      },
-      {
-        "icon": "ticket",
-        "info": "Open Support Ticket",
-        "href": "#support"
       }
     ]
   }
