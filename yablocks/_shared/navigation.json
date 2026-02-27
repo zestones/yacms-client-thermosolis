@@ -20,20 +20,20 @@
       },
       {
         "label": "À propos",
-        "href": "#about"
+        "href": "/about"
       },
       {
         "label": "Réalisation",
-        "href": "#realisation"
+        "href": "/realisation"
       },
       {
         "label": "Contact",
-        "href": "#contact"
+        "href": "/contact"
       }
     ],
     "cta": {
       "text": "Devis Gratuit",
-      "href": "#contact"
+      "href": "/contact"
     }
   }
 }
