@@ -16,37 +16,15 @@
       },
       {
         "label": "Services",
-        "href": "#services",
-        "dropdown": [
-          {
-            "label": "Chauffage",
-            "href": "/services/chauffage"
-          },
-          {
-            "label": "Climatisation",
-            "href": "#climatisation"
-          },
-          {
-            "label": "Ventilation",
-            "href": "#ventilation"
-          },
-          {
-            "label": "Pompe à chaleur",
-            "href": "#pompe-a-chaleur"
-          },
-          {
-            "label": "Panneaux solaires",
-            "href": "#panneaux-solaires"
-          }
-        ]
+        "href": "/services"
       },
       {
         "label": "À propos",
-        "href": "/about"
+        "href": "#about"
       },
       {
-        "label": "Réalisations",
-        "href": "#realisations"
+        "label": "Réalisation",
+        "href": "#realisation"
       },
       {
         "label": "Contact",
