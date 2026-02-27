@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "component": "blocks/content/process/Timeline001",
+    "section": "about/timeline001"
+  },
+  "data": {
+    "badge": "PARCOURS & EXPÉRIENCE",
+    "title": "Plus de 20 ans d'expertise dans le bâtiment & l'énergie",
+    "subtitle": "De la plomberie traditionnelle aux solutions énergétiques modernes, Thermosolis s’appuie sur une expérience solide du terrain et une vision tournée vers l’avenir.",
+    "items": [
+      {
+        "year": "Années 2000",
+        "title": "Les débuts - L’expérience terrain",
+        "description": "Tout commence en 2002, lorsque le fondateur se lance en tant qu'entrepreneur indépendant dans la plomberie. Pendant près de vingt ans, il intervient sur de nombreux chantiers résidentiels et professionnels dans la région stéphanoise. Ce travail quotidien sur le terrain lui permet d'acquérir une maîtrise technique approfondie des réseaux de fluides, du chauffage et des installations sanitaires. C'est cette expérience concrète, forgée au fil des années et des centaines d'interventions, qui constitue aujourd'hui le socle de savoir-faire de Thermosolis.",
+        "image": {
+          "src": "/images/entreprise.jpg",
+          "alt": ""
+        },
+        "icon": "rocket"
+      },
+      {
+        "year": "Année 2021",
+        "title": "Création de Thermosolis",
+        "description": "Fort de près de 20 ans d'expérience dans le bâtiment, Abdelahk fonde Thermosolis en 2021 avec une ambition claire : proposer des solutions énergétiques modernes, performantes et durables. L'entreprise se spécialise dans les pompes à chaleur (PAC), la climatisation réversible, le chauffage haute performance, la plomberie et les solutions liées aux énergies renouvelables. Thermosolis naît de la volonté d'offrir un service complet, de l'étude à la mise en service, avec un engagement qualité sans compromis.",
+        "image": {
+          "src": "/images/premium_photo-1679917152396-4b18accacb9d.jpg",
+          "alt": ""
+        },
+        "icon": "users",
+        "highlighted": true
+      },
+      {
+        "year": "Année 2026",
+        "title": "Une entreprise qualifiée & reconnue",
+        "description": "En quelques années seulement, Thermosolis s'impose comme un acteur de référence dans la région de Saint-Étienne. Avec des centaines de chantiers réalisés — installations de PAC, systèmes de climatisation, rénovations énergétiques complètes — l'entreprise a su gagner la confiance de ses clients particuliers comme professionnels. Certifiée RGE (Reconnu Garant de l'Environnement), Thermosolis continue de se développer en misant sur la qualité, la réactivité et l'accompagnement personnalisé de chaque projet.\n\n",
+        "image": {
+          "src": "/images/test.jpg",
+          "alt": ""
+        },
+        "icon": "lightbulb"
+      }
+    ]
+  }
+}

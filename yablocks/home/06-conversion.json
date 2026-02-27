@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/conversion/cta/CTABanner",
+    "component": "blocks/content/cta/CTABanner",
     "section": "home/cta"
   },
   "data": {

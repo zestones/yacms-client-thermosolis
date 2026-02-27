@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "component": "blocks/content/team/Team001",
+    "section": "about/team001"
+  },
+  "data": {
+    "badge": "Notre Équipe",
+    "title": "Des artisans passionnés",
+    "subtitle": "Derrière chaque installation réussie, il y a des hommes et des femmes experts dans leur domaine.",
+    "members": [
+      {
+        "name": "Jean Dupont",
+        "role": "Fondateur & Expert Chauffage",
+        "description": "35 ans d'expérience. La bible technique de l'entreprise.",
+        "image": {
+          "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuA5prsH7WfdvKsfwmv-liRhHe8xlXG6kvv_2c4rOQs0xVVnjYJU2tNox3avD4lyAFsXyScsWEoY_r5McGTeiCt3oueJPtkZhKKxwCWuzRC-6b3ElEJqaqPxJkfd8k2b7DaBtDgw8G3r1JfBjrOh6Gg6PjEw_AASpMjCmqzT3deaY6IyEPnvsQ-ACEq3K8O-vvxMyzJTZEjTSrolzXHyNQRAIy6Ls7KTiThhBx0Ea7ybpoqSyFDwwlV3JzRy0lcuLWVNaz8gedpZOw",
+          "alt": "Portrait de Jean Dupont"
+        }
+      },
+      {
+        "name": "Sophie Martin",
+        "role": "Directrice des Opérations",
+        "description": "Orchestre les plannings et assure la satisfaction client.",
+        "image": {
+          "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuAaAIaTAHjG03vdqRp3P18a5wkpR6txnoaH38c-yR7Q6a_LxPS-T7unXBtD2Hxs_f181GWs6rt00y0E5uRz_t3Hujn624NoZRTAG1h6hWo4EJTq1OiwcjUfPh6hiRhYQXuMB6ZCdDxC3jytlWwqK1uSPvFYvK1iin3dChwC1kkj9XbKfSkZOte-BqF1wyBZknzgdmg-zj7lZGuR8Vp1B09FC5-d8K3RgLxUml-2QJ-EkPASoohEHiOqjD7qFhlAW9vXzp57zZIvhA",
+          "alt": "Portrait de Sophie Martin"
+        }
+      },
+      {
+        "name": "Thomas Bernard",
+        "role": "Chef d'Équipe Plomberie",
+        "description": "Spécialiste des rénovations complexes et sanitaires.",
+        "image": {
+          "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuCzZ1MtW8VR-5JIWB6IFixfbtwOPIYS-IroG3ix5yWh5DK55cBDobftQQNWc3PlQqujB_8cvZvEKv6MalHvny6lnJxCaxG7TQ33PyNE39w5SflDryqRMKE0W9CVfRUb4P04uz3gXf731BSgPBXKLO2tK2HXQlVDZQQWKl1MtYHIxXtEO4h4JhlavPDIhMJPZ3FsTzOIkHI_M8uMxHK9y9pvwpiaxu4DHOap6ubGg3A-c_UQbl1Q45kg8T9CBzIHkBL2BLExkWzU8g",
+          "alt": "Portrait de Thomas Bernard"
+        }
+      },
+      {
+        "name": "Lucas Petit",
+        "role": "Technicien Clim & PAC",
+        "description": "Expert certifié pour la manipulation des fluides.",
+        "image": {
+          "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuDnPhxxQmYxWAJjf_BcgnBXUmaxfXLdrJdn5xw2rijCN74i10Kx15P2k8krtpJfB-eSEBD5N6ikCtGcH4hs11YmiYxbHbNZOfEbgSoXZX22tphPBSvsWBfW9G9E8LdtbRRO0q1PVylsKMMCyA1wjwrZNas9BMcspc6UcJWjomu8vtGl9TaZlmo5fqA4H4N9-_iSbuoXDy1Ml2fywIBeN4HLqyzV3eqxMowaI3jpbRYODKtBxtL7mw-lc08Y-PqJIGvVR4P2LIQUrw",
+          "alt": "Portrait de Lucas Petit"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/trust/Certification001",
+    "section": "about/certification001"
+  },
+  "data": {
+    "title": "Nos engagements qualité & Certifications",
+    "description": "Parce que la confiance se gagne par la preuve, Thermosolis détient toutes les qualifications requises pour vous garantir des travaux aux normes et vous faire bénéficier des aides de l'État.",
+    "commitments": [
+      {
+        "icon": "verified",
+        "title": "Qualité RGE",
+        "description": "Reconnu Garant de l'Environnement. Indispensable pour MaPrimeRénov'."
+      },
+      {
+        "icon": "engineering",
+        "title": "Suivi de chantier rigoureux",
+        "description": "Un interlocuteur unique suit votre projet du devis à la réception."
+      },
+      {
+        "icon": "package",
+        "title": "Matériel Premium",
+        "description": "Partenariat avec les plus grandes marques (Atlantic, Daikin, Viessmann)."
+      }
+    ],
+    "badgesTitle": "Nos accréditations officielles",
+    "badges": [
+      {
+        "name": "RGE Qualibat",
+        "image": {
+          "src": "/logos/qualipac.png",
+          "alt": "Logo RGE Qualibat"
+        }
+      },
+      {
+        "name": "QualiPAC",
+        "image": {
+          "src": "/logos/qualibat.avif",
+          "alt": "Logo QualiPAC"
+        }
+      },
+      {
+        "name": "QualiSol",
+        "image": {
+          "src": "/logos/qualisol.png",
+          "alt": "Logo QualiSol"
+        }
+      },
+      {
+        "name": "Qualibat",
+        "image": {
+          "src": "/logos/rge.png",
+          "alt": "Logo Qualibat"
+        }
+      }
+    ],
+    "footnote": "Certifications professionnelles garantissant un travail soigné et conforme aux normes en vigueur."
+  }
+}

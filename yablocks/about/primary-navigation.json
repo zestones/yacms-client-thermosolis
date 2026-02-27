@@ -1,7 +1,7 @@
 {
   "meta": {
     "component": "blocks/layout/navigation/PrimaryNavigation",
-    "section": "home/navigation"
+    "section": "about/primary-navigation"
   },
   "data": {
     "logo": {
@@ -16,24 +16,23 @@
       },
       {
         "label": "Services",
-        "href": "/services"
+        "href": "#services"
       },
       {
-        "label": "À propos",
-        "href": "#about"
+        "label": "A propos",
+        "href": ""
       },
       {
         "label": "Réalisation",
-        "href": "#realisation"
+        "href": ""
       },
       {
         "label": "Contact",
-        "href": "#contact"
+        "href": ""
       }
     ],
     "cta": {
-      "text": "Devis Gratuit",
-      "href": "#contact"
+      "text": "Devis gratuit"
     }
   }
 }

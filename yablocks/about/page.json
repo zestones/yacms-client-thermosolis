@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "title": "about",
+    "description": "",
+    "keywords": []
+  },
+  "theme": "thermosolis-default",
+  "blocks": [
+    "../_shared/navigation.json",
+    "./hero002.json",
+    "./timeline001.json",
+    "./stats002.json",
+    "./certification001.json",
+    "./team001.json",
+    "../_shared/footer.json"
+  ]
+}

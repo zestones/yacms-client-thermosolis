@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/social-proof/credentials/TrustCredentials",
+    "component": "blocks/social-proof/trust/TrustCredentials",
     "section": "home/trust"
   },
   "data": {

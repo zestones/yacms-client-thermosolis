@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/stats/Stats002",
+    "section": "about/stats002"
+  },
+  "data": {
+    "stats": [
+      {
+        "value": "500+",
+        "label": "Projets Installés"
+      },
+      {
+        "value": "15MW",
+        "label": "Puissance Totale"
+      },
+      {
+        "value": "98%",
+        "label": "Clients Satisfaits"
+      },
+      {
+        "value": "20 Ans",
+        "label": "D'Expérience"
+      }
+    ]
+  }
+}

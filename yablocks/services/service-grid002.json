@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "component": "blocks/content/features/ServiceGrid002",
+    "section": "services/service-grid002"
+  },
+  "data": {
+    "badge": "Nos domaines d'expertise",
+    "title": "Un seul interlocuteur pour tout votre confort",
+    "subtitle": "Chauffage, eau, air, énergie — on s'occupe de tout pour que vous n'ayez plus à y penser.",
+    "services": [
+      {
+        "icon": "flame",
+        "title": "Chauffage & Pompes à chaleur",
+        "description": "Un logement bien chauffé sans factures qui explosent. Installation, entretien et dépannage de tous systèmes."
+      },
+      {
+        "icon": "droplets",
+        "title": "Plomberie & Sanitaire",
+        "description": "Fuite, panne de chauffe-eau, rénovation salle de bain — on intervient vite et on règle le problème."
+      },
+      {
+        "icon": "snowflake",
+        "title": "Climatisation & Ventilation",
+        "description": "Un air frais en été, un air sain toute l'année. Installation et entretien sur mesure pour votre confort."
+      },
+      {
+        "icon": "sun",
+        "title": "Solaire & Énergies renouvelables",
+        "description": "Produisez votre propre énergie et réduisez vos factures durablement avec le photovoltaïque."
+      }
+    ]
+  }
+}

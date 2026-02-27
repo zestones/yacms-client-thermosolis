@@ -72,7 +72,7 @@
       }
     }
   },
-  "theme": "thermosolis",
+  "theme": "thermosolis-default",
   "blocks": [
     "../_shared/navigation.json",
     "01-hero.json",

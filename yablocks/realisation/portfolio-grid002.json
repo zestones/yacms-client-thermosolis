@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/portfolio/PortfolioGrid002",
+    "section": "realisation/portfolio-grid002"
+  },
+  "data": {
+    "title": "Derniers Projets",
+    "categories": [
+      "Tous",
+      "Résidentiel",
+      "Commercial",
+      "Agricole"
+    ],
+    "projects": [
+      {
+        "title": "Villa Solaire Bordeaux",
+        "description": "Installation complète de 12 panneaux haute performance avec système de stockage batterie pour une autonomie énergétique de 85%.",
+        "image": {
+          "src": "/images/BTP.jpg",
+          "alt": "Maison moderne avec panneaux solaires"
+        },
+        "category": "Résidentiel",
+        "stat": {
+          "icon": "zap",
+          "value": "9 kWc"
+        },
+        "link": {
+          "url": "/realisations/villa-bordeaux",
+          "label": "Voir détails"
+        }
+      },
+      {
+        "title": "Usine Logistique Lyon",
+        "description": "Couverture de 2000m² de toiture d'entrepôt. Réduction massive de l'empreinte carbone et revente du surplus au réseau.",
+        "image": {
+          "src": "/images/clim.jpg",
+          "alt": "Toit d'usine avec panneaux solaires"
+        },
+        "category": "Industriel",
+        "stat": {
+          "icon": "zap",
+          "value": "450 kWc"
+        },
+        "link": {
+          "url": "/realisations/usine-lyon",
+          "label": "Voir détails"
+        }
+      },
+      {
+        "title": "Ferme Solaire Provence",
+        "description": "Projet agrivoltaïque combinant culture sous serre et production d'énergie. Optimisation de l'ombrage pour les cultures.",
+        "image": {
+          "src": "/images/plan.jpg",
+          "alt": "Serre agricole solaire"
+        },
+        "category": "Agricole",
+        "stat": {
+          "icon": "zap",
+          "value": "120 kWc"
+        },
+        "link": {
+          "url": "/realisations/ferme-provence",
+          "label": "Voir détails"
+        }
+      },
+      {
+        "title": "Centre Commercial Ouest",
+        "description": "Ombrières de parking équipées de panneaux photovoltaïques permettant la recharge de véhicules électriques clients.",
+        "image": {
+          "src": "/images/gru.jpg",
+          "alt": "Centre commercial avec ombrières solaires"
+        },
+        "category": "Commercial",
+        "stat": {
+          "icon": "zap",
+          "value": "210 kWc"
+        },
+        "link": {
+          "url": "/realisations/centre-commercial",
+          "label": "Voir détails"
+        }
+      },
+      {
+        "title": "Piscine Municipale Nantes",
+        "description": "Système solaire thermique pour le chauffage de l'eau des bassins et des douches, réduisant la facture de gaz de 60%.",
+        "image": {
+          "src": "/images/plomberie.jpg",
+          "alt": "Chauffage solaire thermique"
+        },
+        "category": "Thermique",
+        "stat": {
+          "icon": "flame",
+          "value": "Thermique"
+        },
+        "link": {
+          "url": "/realisations/piscine-nantes",
+          "label": "Voir détails"
+        }
+      },
+      {
+        "title": "Eco-Hameau Toulouse",
+        "description": "Micro-grid local pour un hameau de 8 maisons, partageant production et stockage pour une quasi-indépendance du réseau.",
+        "image": {
+          "src": "/images/sipi.png",
+          "alt": "Maison écologique avec panneaux solaires"
+        },
+        "category": "Résidentiel",
+        "stat": {
+          "icon": "zap",
+          "value": "32 kWc"
+        },
+        "link": {
+          "url": "",
+          "label": "Voir détails"
+        }
+      }
+    ],
+    "cta": {
+      "text": "Charger plus de projets",
+      "link": "/realisations"
+    }
+  }
+}

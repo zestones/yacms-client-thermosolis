@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "component": "blocks/content/contact/Contact01",
+    "section": "contact/contact01"
+  },
+  "data": {
+    "formTitle": "Contactez Nous",
+    "formLabels": {
+      "firstName": "Nom",
+      "lastName": "Prenom",
+      "email": "Adresse email",
+      "message": "Formulez votre requête",
+      "privacyPrefix": "You agree to your friendly",
+      "privacyLink": "Privacy Policy",
+      "privacyHref": "#",
+      "submit": "Envoyer le message"
+    },
+    "formPlaceholders": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "someone@example.com",
+      "message": "Quelque chose à propos de votre demande."
+    },
+    "infoTitle": "Entrer en contact",
+    "infoDescription": "Vous avez besoin de plus d’informations ? Consultez ce que les autres personnes disent de notre produit. Elles sont très satisfaites de leur achat.",
+    "contactOptions": [
+      {
+        "icon": "phone",
+        "info": "06 60 59 98 35",
+        "href": "tel:0660599835"
+      },
+      {
+        "icon": "mail",
+        "info": "contact@thermosolis.fr",
+        "href": "contact@thermosolis.fr"
+      }
+    ]
+  }
+}

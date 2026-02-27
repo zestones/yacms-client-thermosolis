@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero002",
+    "section": "about/hero002"
+  },
+  "data": {
+    "badge": "Depuis 2002",
+    "title": "Votre artisan de confiance",
+    "titleHighlight": "à Saint Etienne",
+    "subtitle": "Découvrez l'histoire et les valeurs qui font de Thermosolis un partenaire de confiance pour tous vos projets énergétiques.",
+    "backgroundImage": {
+      "src": "/images/test.jpg",
+      "alt": ""
+    },
+    "cta": {
+      "primary": {
+        "text": "Notre Histoire",
+        "link": "/about"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero006",
+    "section": "realisation/hero006"
+  },
+  "data": {
+    "badge": "Excellence Énergétique",
+    "title": "Nos Réalisations",
+    "titleHighlight": "Solaires & Thermiques",
+    "subtitle": "Découvrez comment nous transformons les toits et les terrains en sources d'énergie propre. De l'installation résidentielle aux grands parcs industriels.",
+    "cta": {
+      "primary": {
+        "text": "Voir les projets",
+        "link": "#projects"
+      },
+      "secondary": {
+        "text": "Notre processus",
+        "link": "#process"
+      }
+    },
+    "image": {
+      "src": "/images/clim.jpg",
+      "alt": "Ingénieur inspectant des panneaux solaires"
+    },
+    "floatingCard": {
+      "icon": "leaf",
+      "label": "CO2 économisé",
+      "value": "12,500 Tonnes"
+    }
+  }
+}
