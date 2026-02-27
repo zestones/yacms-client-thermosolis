@@ -13,13 +13,13 @@
       "Notre engagement ne s'arrête pas à l'installation. Nous assurons un suivi régulier, des contrats de maintenance adaptés et un service après-vente réactif, parce que la qualité se mesure aussi dans la durée."
     ],
     "image": {
-      "src": "/images/about-workshop.jpg",
+      "src": "/images/sipi.png",
       "alt": "Technicien qualifié en intervention sur un système de chauffage"
     },
     "cta": {
       "text": "Découvrir notre histoire",
       "link": "/about"
     },
-    "layout": "imageRight"
+    "layout": "imageLeft"
   }
 }
