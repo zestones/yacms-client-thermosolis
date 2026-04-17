@@ -6,8 +6,8 @@
   },
   "theme": "light",
   "blocks": [
-    "../_shared/navigation.json",
+    "@shared/navigation.json",
     "./contact01.json",
-    "../_shared/footer.json"
+    "@shared/footer.json"
   ]
 }

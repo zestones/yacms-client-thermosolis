@@ -6,11 +6,11 @@
   },
   "theme": "thermosolis-default",
   "blocks": [
-    "../_shared/navigation.json",
+    "@shared/navigation.json",
     "./hero006.json",
     "./stats002.json",
     "./portfolio-grid002.json",
     "./testimonial001.json",
-    "../_shared/footer.json"
+    "@shared/footer.json"
   ]
 }

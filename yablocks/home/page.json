@@ -74,13 +74,13 @@
   },
   "theme": "thermosolis-default",
   "blocks": [
-    "../_shared/navigation.json",
+    "@shared/navigation.json",
     "01-hero.json",
     "02-user-context.json",
     "03-value-proposition.json",
     "04-services.json",
     "05-social-proof.json",
     "06-conversion.json",
-    "../_shared/footer.json"
+    "@shared/footer.json"
   ]
 }
